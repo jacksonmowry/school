@@ -312,3 +312,177 @@ These two processes invlove the cell engulfing the nutrient before being passed 
 [[/home/jarch/Screenshots/-region-20220129-194435.png]]
 [[/home/jarch/Screenshots/-region-20220129-194550.png]]
 *** Summary of the Movement of food through the Digestive System
+Here is whats happends to the food we eat as it passed through our body. In our mouths food is broken down through a process called mastication, where food is combined with saliva. an enzyme called salivary amylase will further break down food after chewing. This food is then passed to the esophagus where the epiglottis makes sure good goes to your stomach and not your lungs. By this point the clump of food is called the bolus, which is moved to the stomach along with the saliva and enzymes. Once in the stomach HCl will continue to break down food killing mnay microorganisms. The stomach is responsible for breaking down protiens and fats, until is is ready to be passed on to the intentines. At this point the clump is called chyme, further enzymes are added to help get the remaining nutrients out. Additionally the liver adds a substance called bile to help coat fats, making sure that they cannot combine back into larger fat molecules. all usable nutrients are absorbed through the bloodstream, while the unusable materials pass into the colon, which is eventually passed as waste.
+*** Anatomy of The Digestive System
+There are two major componenets of the human digestive system: the *digestive tract* and the *accessory organs*. While the entire digestive tract can be thought of as one continuous tube, the accessory organs are external elements that aid in digestion.
+| Mouth            | Teeth+Tongue=Mastication, Saliva+Enzymes=Chemical Digestion   |
+| Esophagus        | Muscular tube tomove food via a involuntary mechanial process |
+| Stomach          | Food breakdown and storage before the intestines              |
+| Small Intestine  | Enzymes+foods, breaks down and extracts nutrients>bloodsteam  |
+| Larger Intestine | Uses bacteria to ferment/breakdown waste                      |
+| Rectum & Anus    | Stores feces before elimination from the body                 |
+The accessory organs aid the digestion process but are not directly involved in the process.
+| Pancreas    | Produces digestive enzymes and alkaline fluid (pH neutralization) |
+| Liver       | Produces bile (coat fats), to mix fats with water                 |
+| Gallbladder | Stores bile                                                       |
+*** Mouth
+The mouth mainly serves to ingest food and perform the first large break down. By breaking food down into smaller more easily digested pieces the digestion process can take place even faster. Saliva serves two purposes in the mouth, lubrication, and adding enzymes to the bolus. Amylase is responsible for breaking down starches, while lipase is responsible for breaking down fat.
+*** Esophagus
+The esophagus is the region where the peristalsis process takes place. This is an automatic process where food is moved down the esophagus towrds the stomach. The lower esophageal sphincter is responsible for passing food into the stomach, while at the same time preventing stomach acid from making its way out of the stomach.
+*** Stomach
+The average adult stomach has a size of about 1 liter, which holds a few different substances thorughout the day. Starting with chyme the name for food combined with gastric juices. These gastric juices are known as HCl an acidic substance that further breaks down food. This is such an acidic substance the the stomach lining needs to be strong enough to protect itself, the stomachs mucus shield serves this purpose. HCl will also active some enzymes to start working. While in the stomach food will be broken down for around 2-6 hours, the food is moved around and broken down until it reaches the desired consistency, at this point it will be passed into the intenstines by the pyloric sphincter.
+*** Small Intestine
+In the small intestine food is mixed with even more digestive enzymes to break down nutrients into their most simple parts. Then these nutrients are able to be absorbed into the blood stream though in high surface area of the small intestine. Within the small intestine there are many villi, these small fingerlike projections contain small hairlike cells which even further increase the surface area. With the muscles in the small intestine everything is in a wavelike motion allowing molecules to be trapped and easily absorbed.
+The furst section of the small intestine is called the duodenum, a 12 inch long section responsible for the first absorption of food. Bile from the gallbladder enters the duodenum acting as an emulsifer which encapsulates fat moleucles allowing them to mix with water. The follwing sections of the small intestine are called the *jejumum* and the *ileum*.
+*** Large Intestine
+The large intestine (also known as the colon) is the area of the digestive tract where waste is prepared. By the time nutrients reach this portion all of the desired nutrients have been absorbed. Within the colon remainng water, sodium, potassium, and fatty acids are reabsorbed. Waste moves through the colon where various microorganisms continue to break it down, and more and more water is removed as it makes its way towards the end. These sections that waste moves through are called: the cecum, ascending colon, transverse colon, descending colon, and sigmoid colon.
+The whole digestive tract contains various microorganisms, which digest nutrients that cannot be broken down in other parts of the digestive tract. These healthy bacterica can also produce vitamins (K and some B), this is all relient on the balance of "good" and "bad" bacteria. If this balance is not maintained we will experice discomfort. These "good" bacteria are commonly called probiotics, which help with intestinal health. Live/fermented food will contain these helpful bacteria which are known to promote healthy digestion. Another form of microorganisms are called prebiotics, these are dietary fiber that feed the microorganisms contained within the digestive tract, promoting the growth of "good" bacteria.
+*** Accessory Organs of Digestion
+The pancreas produces lipase and amylase to break down fats and carbohydrates respectively. Proteases are responsible for breaking down protein. The pancreas also produces bicarbonate to neutralize the stomachs HCl protecting the small and large intestine.
+*** Degestive Disorders
+*Heartburn* is the condition in which the LES becomes "loose" allowing the flow of stomach acid back up into the esophagus. The pain a person experiences is due to the HCl burning the lower esophagus, which lacks the same mucus based protection that the stomach possess. Being overweight may lead to increased heartburn, along with hormone irregularities during pregnancy. If heartburn occurs on a consistent basis it is diagnosed as *Gastroesophageal Refulx Disease (GERD)*, in which heartburn may occur several times a week. Some of the suspected causes of GERD are: hiatal hernia, obesity, smoking, lack of exercise, medications, stress, and certain foods. To treat GERD it is important to eliminate or fix the cause rather than mediciating symptoms.
+*Peptic Ulcers* (stomach ulcers) are the results of erosion in the stomach - producing a hole withing the stomach. This can be caused by HCl or pepsin. This mostly occurs when stomach mucus is worn down due to many causes, leading to erosion of the stomach lining.
+*Constipation* occurs when bowles movements occurs too infrequently for a person to be comfortable. When feces takes too long to pass through the intenstines a large amount of water will be absorbed leading to a dry hard stool. Consuming enough fiber, water, and performing frequent exercise are known to relieve symptoms on constipation. Frequent use of laxitaves will cause the bowels to become reliant of the drug.
+*Hemorrhoids* are described as sowllen veins in the rectum and anus caused by intense pressure and strain due to constipation. They can also be cause by sitting for too long. Proper fiber consumption and intake of fluids are known to relieve symptoms of hemorrhoids.
+*Irritable Bowel Syndrome (IBS)* is a condition more frequent in women than men. Cramping, bloating, and diarrhea/constipation are common symptoms. Causes can include certain foods or stress. Try removing foods that may be causing addition bowel stress.
+*Diarrhea* was mainfest as symptoms of cramping; loose, eatery stools; pain; and bloating. It can be caused by a reaction to a specific food, or through bacteria or virus. Diarrhea will cause a lot of eater to exit the body so it is important to treat for dehydration. People experiencing diarrhea should also seek to introduce extra probiotics into their diet.
+*Gallstones* are a crystal-like particle that forms from bile and cholesterol. Being overweight, genetic factors, diet, lifestyle, chronic conditions, and supplement use can all lead to gallstones. The stones will cause pain can must be either surgically removed or dissolved by medication.
+*Celiac Disease* is a condition in which the body is unable to properly process the protein glueten. Genetic conditions cause the body to experience inflammation within the small intestine causing it to attack itself. Druing the attack villi are permenantly destroyed leading to decreased absorption of nutrients though the small intestine.
+* Chapter 5: Carbohydrates
+** Introduction
+There has always been a facination around the roles of carbs in diet, from low carb diets, and most proplr overconsuming carbs. Although the amount of carbs does play a large role in diet and health, the more important factor is the type of carbs you choose to eat. For example whole grains are often neglected in exchange for more of the simple sugars. Each type of carbohydrate has its own role, some provide easy energy for the body, and some like fiber promote gastrointestinal health. We often over consume sugar through both sugar sweetened beverages and snacks.
+** Types of Carabohydrates
+Carbohydrates are made up of carbon, hydrogen, and oxygen. For plant made carbohydrates the energy is captured from the sun, and for animal made carbohydrates from the plants. Mono and Disaccharides make up the class of simple sugars, while polysaccharies make up complex carbohydrates. Starch, glycogen, and dietary fiber are complex carbohydrates. In addition sugar alcohols are similar in structure to polysaccharides, but contain 1-3 calories, as opposed to 4 of normal carbohydrates.
+*** Simple Sugars: Monosaccharides
+The most simple sugars are monosaccharides, that require almost no digestions, and thus are easily absorbed into the blood stream.
+*Glucose* is used as the body for its main source of energy, often called blood sugar providing energy to our cells.
+*Fructose* is a sugar coming from fruit.
+*Galactose* is a sugar found in milk only in combination with glucose.
+*** Simple Sugars: Disaccharides
+Like the name suggests disaccharides consist of 2 sugar molecules, requiring a small amount of digestion to be absorbed by the body.
+*Sucrose* is a combination of glucose and fructose, called table sugar. This one molecules can make up around 25 percent of a western diet.
+*Maltose* called malt sugar, is made up of two glucose molecules. The molecules is a result of starches being broken during digestion.
+*Lactose* is made up od one glucose molecule and one galactose molecule, referred to as milk sugar. Mammals are the only beings capable of producing lactose, it helps onfants absorb calcium, and gain good intestinal bacteria.
+*** Oligosaccharies
+This smaller category of carbohydrates are made up of 3-10 monosaccharides. They are found in beans and legumes, they are not digested but instead metabolized in the colon.
+*** Complex Carbohydrates: Polysaccharides
+Made up of long glucose chains, these molecules can slowly provide energy or serve as fiber.
+*** Polysaccharides: Starch
+Starch found in plants is made up of branched or unbranched chains of glucose. The branched variety is called amylopectin, while the unbranched variety is called amylose. Amylose has a gel like consistency, while amylopectin is more like wax. Plants will have different ratios of these starches giving them distinct qualities. Starch is commonly used as a thinkening agent.
+*** Polysaccharides: Glycogen
+Animals are able to store carbohydrates in the body by using glycogen. After the body gets glucose from foods it can store this glucose as glycogen, its structure is similar to that of plant starch, with a branched chain. 3/4 of a pound of glycogen can be stored in the muscles and liver. Glycogen storage can be manipulated through intake of carbohydrates.
+*** Polysaccharides: Fietary Fiber
+Fiber makes up the structure of plants, consisting of long chains of polysaccharides. Although we cannot digest this fiber it helps to keep our gut healthy.
+Types of Fiber
+| Type      | Health Effects                              |
+|-----------+---------------------------------------------|
+| Soluble   | Lower Cholesterol,  slow glucose absorption |
+| Insoluble | Regulate Bowels                             |
+** Carbohydrate Summary
+| Name            | Makeup     | Examples                     | Special Issues           |
+|-----------------+------------+------------------------------+--------------------------|
+| Monosaccharides | One unit   | Glucose, Fructose, Galactose | Rarely found alone       |
+| Disaccharides   | Two units  | Sucrose, Lactose, Maltose    | None                     |
+| OS              | 3-10 Units | Raffinose, Stachyose         | Causes Gas               |
+| Polysaccharides | Many Units | Starch, Glycogen             | > Glucose                |
+| Lignin          | Many Units | Dietary Fiber                | Cannot Digest, Fermented |
+** What Are the Primary Souces of Carbohydrates?
+Many types of food contain carbohydrates. Foods with starches or many simple sugars will greatly impact your blood sugar, while nonstarchy vegetables will have very little impact. Many of the foods we consume today contain added sugars, highlighting a problem with our view on food, substituting added sugars for removed fats. In order to get our RDA for carbohydrates we should seek to consume 45-65 percent of our total calories as carabohydrates. Additionally around 130 grams of carbohydrates should be consumed a day to spare protein and avoid ketosis. We should try and eat more whole grain foods as they are nutrient-rich and help maintain feelings of satiety for longer.
+** Sugar and Sugar Alternatives
+*** Nutritive Sweeteners
+These are sweeteners that provide energy, such as refined sugar, HFCS, and many more.
+| Type            | Properties             |
+|-----------------+------------------------|
+| Sucrose         | Table sugar            |
+| HFCS            | Cheap, long lasting    |
+| Brown Sugar     | Moist for cooking      |
+| Turbinado Sugar | Raw, larger crystals   |
+| Maple Sugar     | Sap from maple tree    |
+| Honey           | Plant nectar + Enzymes |
+*** Honey
+Honey is made up of glucose and fructose, but they are not bonded as in sucrose. Honey is not healthier than table sugaar, and it digests just as quickly.
+*** Stevia
+Stevia is a naturally occuring sweetener that contains very little energy. Has no negative health effects on humans.
+*** Sugar Alcohol
+Common names will end in -ol, indicating one molecules of sugar bonded to one molecule of alcohol. Not fully digested by the body.
+*** Nonnutritive Sweeteners
+These are commonly called artificial sweeteners, and contain no energy. Aspartame, and sucralose are some examples.
+**** Saccharin
+Was thought to cause cancer but has been considered safe since 2000.
+**** Aspartame
+When consumed the body converts aspertame to aspartic acid, phenylalanine, and methanol. Due to the phenylalanine individuals with phenylketonuria need to avoid aspertame. It is not heat stable, so should not be used in cooking. One would need to drink 14 cans of soda to reach dangerous levels.
+**** Acesulfame-K (Potassium)
+Considered safe.
+**** Neotame
+7000-13000 times sweeter than sugar, is considered safe.
+**** Sucralose
+Known as splenda, 600 times sweeter than sugar, not digested by the body.
+*** Sweetener Comparison
+| Type         | Realtive Sweetness | Sources               |
+|--------------+--------------------+-----------------------|
+| Lactose      |                0.2 | Dairy                 |
+| Maltose      |                0.4 | Sprouted seeds        |
+| Glucose      |                0.7 | Corn syrup            |
+| Sucrose      |                  1 | Table Sugar           |
+| Fructose     |                1.7 | Fruits                |
+| Sorbitol     |                0.6 | Sugarfree desserts    |
+| Mannitol     |                0.7 | Sugarfree desserts    |
+| Xylitol      |                0.9 | Sugarfree desserts    |
+| Stevia       |            100-300 | Desserts              |
+| Aspartame    |            180-200 | Diet Drinks           |
+| Acesulfame-K |            150-200 | Chewing gum, desserts |
+| Saccharin    |                300 | Diet Drinks           |
+| Sucralose    |                600 | Diet Drinks           |
+| Neotame      |         7000-13000 | General Sweetener     |
+** Major Functions of Carbohydrates
+The most important function of carbohydrates in to provide energy.
+*** Dietary Energy
+Certain cells can only gain energy from glucose, which makes sense because most carbohydrates are converted to glucose. An important thing to note is that the speed at which we digest carbohydrates determines how fast we get energy from them, simple sugars digesting very quickly.
+*** Protein Sparing
+If carbohydrates are under-consumed the body will instead look to other sources of energy. If restricted enough the body will pull energy from muscles, which is detrimental to proper bodily function. Otherwise protein and amino acids will be used for growth and repair. When protein is broken down for energy it is called gluconeogenesis, where glucose is formed from noncarbohydrate sources.
+*** Preventing Ketosis
+When energy is needed it can be pulled from fat, where the liver will convert fat into ketone bodies. These are an acidic fat derivative that are formed from an incomplete breakdown of fat. Ketosis is anot a ideal condition for the body and will impair proper function.
+** Carbohydrate Digestion
+Cooking carbohydrates with high fiber contents will help to soften the tissue making it easier to digest. When ingested salivery amylase will begin to break down starches into much shorter chains. In the stomach carbohydrates do not digest much further, instead they are mainly digested in the small intestine. Pancreatic amylase is used along with maltase, sucrase, and lactase. Once broken down into monosaccharides they can be absorbed in the small intestine. They are then transported to the liver, where they are transformed into glucose and then pushed into the bloodsteam. If the bloodstream already contains adequate glucose levels the liver will produce glycogen, otherwise they will be converted into fat. Fiber will be fermented in the colon later on.
+** Complications with Carbohydrate Digestion
+*** Lactose Intolerance
+This condition occurs when the body cannot produce lactase. The three types of lactose maldigestion are primary, secondary, and lactose intolerance. Primary is when lactose > lactase, secondary is when the body is temporarly not producing enough lactase. Lactose intolerance is when lactose is fermented producing lactic acid and gas. Often accompanied by diarrhea due to excess water being drawn into the GI tract. One possible way to mitigate the effects of eating lactose would be to consume the lactose with a fat source that would slow digestion, potentially allowing the small amount of lactase present to do its job.
+*** Celiac Disease
+In the US a lot of grains are consumed, and many of the grains provide fiber and protein. A protein called gluten can cause digestion problems for some people, called celiac disease, a condition an inability to absorb nutrients. The villi and microvilli destory themselves rendering them useless at absorbing nutrients. Previously it was thought that 1/6000 people had it, no it is 1/100-200. Better testing, along with different grain processing may be the cause of the sudden increase. It has also become a popular diet so that may explain the increase in "gluten sensitive" people.
+** Regulating Blood Glucose Levels
+As discussed the liver helps regulate glucose levels in the blood. When sugar enters the bloodstream insulin is released by the pancreas. *Insulin* is a "gatekeeper", allowing glucose to enter cells, and be used as energy. Resulting in a decrease of glucose in the blood. Insulin also promotes protein synthesis, and coversion of excess glucose to glycogen and fat. Insulin also helps ensure the gluconeogenesis does not occur. Insulin acts to decrease blood glucose levels.
+When blood glucose levels begin to drop other hormones are released, glucagon, and epinephrine. Glucagon from the pancreas, and epinephrine from the adrenal glands cause glycogen to be released into the blood as glucose. These two hormones also enhance gluconeogenesis, the transformation of fat and protein into blood glucose. These two work together to increase blood glucose.
+Consuming large amounts of simple sugars on their own will cause a surge in serum insulin, leding to a sharp drop in blood glucose, which can leave a person feeling dizzy and faint.
+Normal fasting blood glucose levels are considered to be 70-99mg/dL, when above this range the condition is called hyperglycemia (> 125 mg/dL), and below this range being called hypoglycemia (< 40-50 mg/dL).
+** Glycemic Response
+While some carbohydrates may seem "bad" and others "good" it is important to know that no one carbohydrate is good or bad. They do however have different effects on our blood glucose levels. The *glycemic* index of a food will tell you how fast it raises a persons blood glucose levels. Glycemic load will be a better indicator as it factors in both rate, and quantity.
+Effects of Foods with High Glycemic Load
+| Large release of insulin           |
+| Increase blood tryglyceride levels |
+| Increase fat deposits              |
+| Increase clotting                  |
+| Increase fat synthesis in liver    |
+| Rapid return of hunger             |
+| Developing insulin resustance      |
+Some may use the glycemic index of foods as a weight loss tool, although it is not proven is research to be a factor in losing weight.
+** Health Benefits of Dietary Fiber
+Soluble fibers are known to lower cholesterol and slow glucose absorption, while insoluble fibers help regular bowel movements. Dietary fiber has many health benefits and is recommened to be part of a healthy diet every single day.
+*** How Much Fiber Do We Need?
+Experts recommend 25g for women and 38g for men, around 14g/1000cal.
+*** Can You Consume Too Much Fiber?
+Too much fiber can bind up minerals and increase the frequency of bowel movements. In addition too much fiber can take away from consuming carbohydrates containing energy leading to a tired feeling.
+*** To Supplement or Not?
+**** Is supplemental fiber in pill or powder form the same as fiber found in food?
+Fiber in food contains antioxidants, while in pill form it may not. Additionally fiber pills may dissolve in the stomach leading to digestive issues. These pills can also form a dependence on them in order to facillitiate regular bowel movements.
+** Your Health and Carbohydrates
+*** Carbohydrate Intake and Obesity
+Although added sugars, and increased fat intake can be a potential cause of obesity, the overarching cause is simply excess calories.
+*** Low-Carbohydrate Diets and Weight Loss
+Low-Carbohydrate diets work on the principle that ketosis sheds fat, and body water. These diets are harsh and not shown to be sustainable in studies. Low-Carbohydrate diets can cause complications with increased fat intake, bad breath, constipation, and dehydration from water loss.
+** Diabetes Mellitus
+This is a condition in which the body is unable to regulate its blood glucose levels, leading to hyperglycemia. Around 30 million Americans have this form of diabetes.
+** Forms of Diabetes
+*** Type 1 Diabetes
+The body is unable to produce insulin (thought to be a result of autoimmune disease, and the pancreas being destroyed), as a result a person needs to supplement with insulin.
+*** Type 2 Diabetes
+Also known as noninsulin dependent diabetes mellitus. About 90 percent of all diabetes mellitus is a result of type 2 diabetes.
