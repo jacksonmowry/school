@@ -485,4 +485,5 @@ This is a condition in which the body is unable to regulate its blood glucose le
 *** Type 1 Diabetes
 The body is unable to produce insulin (thought to be a result of autoimmune disease, and the pancreas being destroyed), as a result a person needs to supplement with insulin.
 *** Type 2 Diabetes
-Also known as noninsulin dependent diabetes mellitus. About 90 percent of all diabetes mellitus is a result of type 2 diabetes.
+Also known as noninsulin dependent diabetes mellitus. About 90 percent of all diabetes mellitus is a result of type 2 diabetes. Although many factors can lead to a condition of type 2 disbetes even just a 5-7 percent weight loss can significantly improve insulin sensitivity. Certian genertic makeups have prediposition to this condition.
+*** Gestational Diabetes
