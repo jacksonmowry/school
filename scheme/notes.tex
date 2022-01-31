@@ -1,0 +1,109 @@
+% Created 2022-01-31 Mon 13:42
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Jackson}
+\date{\today}
+\title{Scheme 101}
+\hypersetup{
+ pdfauthor={Jackson},
+ pdftitle={Scheme 101},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.6)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Basic functions}
+\label{sec:orge00c60c}
+\begin{itemize}
+\item (+ 1 2 3)
+\item =6
+\item Functions are a list where the first elements in each list ``()'' is a function
+\item So for the first example ``+'' is the function we are calling, and ``1'', ``2'', ``3'' are our arguments
+\item Some examples of basic operators are ``+, -, /, *, etc''
+\end{itemize}
+\subsection{Using multiple functions inline}
+\label{sec:org19ae01d}
+\begin{itemize}
+\item Since everything is Scheme is a list we can call functions inside of functions, and these inner functions evaluate to a return value that is then passed to the next function out
+\item (sqrt (+ (* 5 5) (* 12 12)))
+\item 13
+\item Let's break this example down
+\begin{itemize}
+\item There are two ways to think about this single line:
+\begin{itemize}
+\item Inside-out, and Outside-in
+\end{itemize}
+\item Let's start with Inside-out as this will help us view the function left-to-right
+\begin{enumerate}
+\item (sqrt \ldots{} )
+\begin{itemize}
+\item sqrt takes an argument and returns its square root
+\end{itemize}
+\item (+ \ldots{} )
+\begin{itemize}
+\item + is the addition opperator and it will add all arguments together
+\end{itemize}
+\item (* \ldots{} )
+\begin{itemize}
+\item * is the multiplication opperator that will multiply all arguments together and return the output
+\end{itemize}
+\end{enumerate}
+\item So our line of code will return the square root of the result of the addition of the product of (5*5) and (12*12)
+\begin{itemize}
+\item Seems complicated when you look at it that way, so lets take a look from the inside out
+\end{itemize}
+\item From the inside-out we can start by finding the inner-most argument, which in out case is the second multiplication opperator
+\begin{enumerate}
+\item (* 12 12)
+\begin{itemize}
+\item = 144
+\end{itemize}
+\item Next we can perform next operation outwards,  (* 5 5)
+\begin{itemize}
+\item = 25
+\end{itemize}
+\item Now that we have performed both of the operations inside the inntermost function we can perform that function, (+ 25 144)
+\begin{itemize}
+\item = 169
+\end{itemize}
+\item So then we move outward and we can see we are at the outermost operation being sqrt, sqrt take exactly one argument being our number 169, (sqrt 169)
+\begin{itemize}
+\item = 13
+\end{itemize}
+\end{enumerate}
+\end{itemize}
+\end{itemize}
+\begin{verbatim}
+(sqrt (+ (* 5 5) (* 5 5)))
+\end{verbatim}
+
+\subsubsection{Side Note on Creating a List}
+\label{sec:org6235270}
+\begin{itemize}
+\item Since Scheme uses lists for both function and data we need a way to tell it which is which. For this we prefix our list with a singlr quote '()
+\item Notice that we only use a beginning quote, and there is no need for an ending quote mark.
+\end{itemize}
+\begin{verbatim}
+(* 4 5)
+= 20
+
+'(* 4 5)
+=(* 4 5)
+\end{verbatim}
+\end{document}

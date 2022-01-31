@@ -1,0 +1,11 @@
+#+TITLE: Job Application Packet
+#+AUTHOR: Jacskon
+* Parts of assignment
+- One-page resume tailored specifically for the job to which you are applying
+- 4 paragraph cover letter addressed to the hiring manager
+- One-page memo addressed to prof detialing the chosen job's activites
+- Rational about why I am quialified
+- The salary range of the job in my area
+- Also Included
+  - The job advertisement
+  - Mock online interview via Big Interview

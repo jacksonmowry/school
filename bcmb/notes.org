@@ -1,0 +1,238 @@
+#+TITLE:Notes
+#+AUTHOR: Jackson
+
+* Day 1 syllabus
+** TODO add dates from syllabus to calendar
+** Grading
+*** Exams 80%
+*** labs 20%
+** Inroduction and Chemical Biology
+| Element | Symbol |
+|---------+--------|
+| H       |    63% |
+| O       |     26 |
+| C       |      9 |
+| N       |      1 |
+- atoms are made up of protons, neutrons, and electrons
+- we only care about outer electons
+*** Molecule vs Compound
+- two or more atoms vs two or more different elements
+*** Types of bonding
+Covalent bonds: electrons are shared among atoms
+- polar: unequal sharing
+- non polar: equal sharing
+- single and double covalent bonds
+  - depends on how many electrons are being shared
+- Polar examples
+  - Oxygen and hydrogen can form a covalent bond
+    - water is a polar substance
+  - Sulfur and hydrogen can also
+  - Same with N and H
+- Non polar examples
+  - C and H
+  - C and C
+Ionic bonds: One or more electrons from one atom are removed and attached to another atom, forms cations and anions
+- this will make both atoms "happy", or closer to a completed valence shell
+  - These can also be called salts
+- Examples
+  - Na Cl, Na has one, Cl has 7, they can combine and make each complete
+Hydrogen bonds: Weak bonds between hydrogen and other atoms
+- Water is polar and it makes a ton of hydrogen bonds by orienting its O to another water molecules H (weak Hydrogen bond)
+| Chemical Atom | Symbol | Ion           | Electrons Gained or Lost |
+|---------------+--------+---------------+--------------------------|
+| Hydrogen      | H      | Hydrogen Ion  | 1 Lost                   |
+| Sodium        | Na     | Sodium Ion    | 1 Lost                   |
+| Potassium     | K      | Potassium Ion | 1 Lost                   |
+| Chlorine      | Cl     | Chloride Ion  | 1 Gained                 |
+| Magnesium     | Mg     | Magnesium Ion | 2 Lost                   |
+| Calcium       | Ca     | Calcium Ion   | 2 Lost                   |
+*** Electronegativity
+- when two atoms with differing electronegativity bond the electrons will concentrate more towards the atom with greater electronegativity (polar covalent bonding)
+  - if two atoms with the same electronegativity bond they will form a non polar bond
+  - non polar bonds are hydrophobic
+  - polor bonds are hydrophilic
+  - polar dissolves polar
+*** Ionic Molecules
+- Ionization
+  - carboxyl group
+    - (-COOH)
+  - amino group
+    - (-NH2)
+*** Fucntion Groups
+- Ionized Group
+  - Carboxyl
+  - Amino
+  - Phosphate
+* Day 2
+** Free Radicals
+- atoms of molecules containing a single electron
+- Unstable, and highly reactive
+** Solutions
+- the liquid everything is disolved in is the solvent
+- Everything else is the solute
+- water is a universal solvent
+- however not all molecules can be dissolved in water
+*** rxn with water
+- hydrolysis breaking of a chemical bond with the additions of elements of water -H and -OH to the products
+- dehydration involves a removal of water, one net water molecules is removed to combine two small molecules into one larger one
+** Osmosis
+- water moving between fluid compartments
+- water moves from areas of low concentrations of solutes, to areas of high solute concentration, essentially creating two equal areas of solute concentration
+- rate of diffusion: 10 billion molecules per second
+** Solubility in water
+- polar molecules will easily dissolve in water: hydrophilic
+- non polar molecules will not easily dissolve in water: hydrophobic
+** Amphipathic Molecules
+- a special class of molecules that have a polar or ionized region at one site and a nonpolar region at another site
+- in water these molecules will form clusters with their polar regions at the surface of the cluster, and the non polar sites inwards
+- these help dissolve non polar substances in the presense of water
+- plasma membrane structure helps transport molecules in the blood
+** Concentration
+- the amount of solute present in a unit volume of solution
+- moles/liter is an example
+** Acids and Bases
+- molecules that release H are called acids
+- mocules that accept H are called bases
+- Hydrogen is very useful in our bodys energy system due to the fact that it is very simple
+- The bodies pH range is around 7.35 to 7.45
+  - blood 7.4
+** Terminology of different Sciences
+- Organic is C-H
+- Inorganic in non C
+- Biochem is living organisms
+** Classes of Organic Molecules
+*** Carbohydrates
+- Disaccharides and polyaccharides
+*** Lipids
+- Triglycerides
+- Phospholipids
+- Steroids
+*** Proteins
+- polypeptides
+*** Nucleic Acids
+- DNA and RNA
+** Organic chemicals
+- compounds containing carbon bonded to hydrogens
+- carbon is the fundamental element of life
+  - 4 atoms in valence
+  - single, double, triple covalent bonds
+  - linear, branched, or ringed molecules
+** Fucntional Groups Continued
+- smaller groups of atoms that bind to organic compound
+- confer unique reactive properties on the whole molecules
+- Hydroxyl (O-H), found in alcohols, and carbohydrates
+- Carboxyl (COOH), found in fatty acids, proteins, and organic acids
+- Ester (COOR), found in lipids
+- Carbonyl (COH), found in aldehydes, polysaccharides
+- Phosphate (PO4H2), found in DNA, RNA, ATP
+- Methyl (CH3), found in DNA, amino Acids, Lipids, Carbohydrates
+** Carbohydrates: Basic Structure
+- General Formula (CH2O)
+- Basic Structure:
+  - Backbone of Carbon
+  - Polyhydroxy aldehyde or ketone
+- Common Configurations
+  - Monosaccharide: polyhydeoxy aldehyde or ketone with 3-7 carbons
+  - Disaccharide: two monosaccharides
+  - Polysaccharide: five or more monosaccharides
+- Changing the chiral orientation of just one C will change the molecule
+- Different arrangements will create different structual properties:
+  - linear: celluose, structural integriety
+  - branched: starch, glycogen, storing energy, easy to pull apart and access
+    - you can pull whole branches off of the structure for easy energy access
+- Combining two different monosaccharides will form a new carbohydrate
+  - table sugar
+** How the body uses sugar
+- glycogen exists in the body as a resevoir of available energy that is stored in the chemical bonds within individual glucose monomers
+- blood sugar
+** Lipids
+- moleucles composed of mostly hydrogen and carbon
+- linked by non polar covalent bonds, they are nonpolar, low solubility in water
+  - fatty acids, triglycerides, phospholipids, steroids
+  - act as a boundry
+- valuable store of energy
+- major component of all cellular membranes
+- important signaling molecules
+*** Fatty acids
+- hydrocarbon chain, and a carboxyl group
+- all single bonds: saturated fatty acid
+- one or more double bonds: unsaturated fatty acids
+- >1: polyunsaturated
+- 1: monounsaturated
+*** Triglycerides
+- the majority of the lipides in the body
+- glycerol, a three-carbon sugar-alcohol, bonded to three fatty acids
+- present in blood and cn be synthesized in the liver
+- stored in great quantities in adipose tissue
+- energy reserve or the body, during fasting or exercise
+*** Phospholipids
+- similar in overall sructure to triglycerides, but the third hydroxyl group of glycerol is linked to phosphate
+- a small polar (ionized nitrogen-containing molecule) is usually attached to the phosphate
+- polar region at one end, two fatty acids make a non-polar region at the opposite end
+- they are amphipathic
+  - they form lipid bilayers of cellular membranes
+*** Steroids
+- a distinctly different structure from those of the other subclasses of lipid molecules.
+- four interconnected rings of carbon atoms form the skeleton of every steroid
+- no water-soluble
+- cholesterol, cortisol, estrogen, testosterone
+- cholesterol is inserted into the phospholipid bilayer
+  - reinforcing the membrane
+*** Proteins
+- about 50 percent of the organic material in the body (17 percent by weight)
+- carbon, hydrogen, oxygen, nitrogen, and small amounts of sulfur
+- they are macromolecules, thousands of atoms
+- 20 amino acids
+- polymer: peptide, polypeptide, protein
+[[/home/jackson/Pictures/Screenshot_2022-01-27_09-06-18.png]]
+- amino acids are attached through peptides bonds to from proteins
+- proteins fold into very specific 3D shapes
+- functions: support, enzymes, transport, defense, movement
+  - Primary: a series of amino acids bound in a chain. amine acids display small charges functional groups
+  - Secondary: develops CO- and NH- groups on adjacent amino acids form hydrogen bonds. This action folds the chain into local configurations called the alpha helic and the beta pleated sheet. Most proteins have both types of secondary structures
+  - Tertiary: portions of the secondary structure further interact by forming covalent disulfide bonds and additional interaction. From this emerges a stable three-dimensional molecule. Dependong on the protein, this may be the final function state.
+  - Quaternary: Exists only in proteins that consist of more than one polypeptide chain.
+- Two variables detrmine the primary structure of a protein
+  - the number of amino acids in the chain
+  - the specific sequence of different amino acids
+** Major Catergories anf Function of Proteins
+| Category                               | Functions                                                                                  | Ex                                                                                               |
+|----------------------------------------+--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------|
+| <15>                                   | <15>                                                                                       | <15>                                                                                             |
+| Proteins that regulate gene expression | make RNA/DNA, make polypeptides from RNA                                                   | transcription factors activate genes; RNA polymerase transcribes genes                           |
+| Transporter proteins                   | Mediate the movement of solutes such as ions and organic molecules across plasma membranes | ion channels in plasms membranes allow movement across the memebrane of ions such and Na1 and K1 |
+| Enzymes                                | Accelerate the rate of specific chem rxns, such as those required for cellular metabolism  | lipase, amylase, proteases                                                                       |
+| Cell Signaling proteins                | Enable cells to communicate with each other, themselbes, and with the external environment | plasma memvrane receptors bind to hormones or neurotransmitters in extracellular fluid           |
+| Motor proteins                         | initiate movement                                                                          | myosin, found in muscle cells, contractile force                                                 |
+| Structural proteins                    | support, connect, and strengthen cells, tissues, and organs                                | collagen                                                                                         |
+| Defense proteins                       | protext against infection and disease                                                      | cytokines and antibodies                                                                         |
+** TODO Take notes of 1-4 protein structures
+***  Protein Conformation
+- in nature proteins appear folded,  bended, or twisted forming more compact strctures
+- this is known as a proteins conformation
+*** Primary Structure
+- primary structure is determined by:
+  - the number of amino acids in the chain
+  - the specific sequence of different amino acids
+- Kinda like a linear chain, just not an exact straight line
+*** Secondary Structure
+- Attraction between various regions along this linear chain form hydrogen bonds and thus create the secondary structure in a protein
+- These are called peptide bonds
+- these bonds occur at regular intervals and force the conformation into a spiral or alpha helix
+- in addition hydrogen bonds can also form between peptide bonds when extended regions of a polypeptide chain run parallel to each other, forming a relatively straight, extended region known as a beta pleated sheet
+- In between these two structures random coil conformations help to link the two together
+- these two structures give the protein its ability to anchor itself into a lipid bilayer
+*** Tertiary Protein Structure
+- after secondary structures are formed additional amino acid side chains become possible
+- they fold the polypeptide into three-dimensional conformations,  forming a functional protein
+**** Determining Tertiary Structure
+1. hydrogen bonds between side groups of amino acids or with surrounding water molecules
+2. ionic interactions between ionized regions along the chain
+3. interactions between nonpolar regions
+4. covalent disulfide bonds linking the sulfur-containing side chains of two cysteine amino acids
+5. van der Waals forces
+[[/home/jackson/Pictures/fold.png]]
+*** Quaternary Protein Structure
+- if more than one polypeptide chain is bonded together it is known as a quaternary structure, or multimeric proteins
+- the same forces act upon these proteins as described above
+- therefore the subnits are held together in the same ways
