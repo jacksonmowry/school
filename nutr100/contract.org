@@ -1,0 +1,14 @@
+#+TITLE:Contract
+#+AUTHOR: Jackson Mowry
+* NUTR 100 Contract
+Jackson Mowry
+Online Section
+<2022-01-24 Mon>
+
+I have reviewed the syllabus and INTRO lectures for NUTR 100 and I understand all course
+requirements and responsibilities. I also understand that late work is not accepted in this course
+for any reason that is not preapproved by my GTA or Professor Murphy. Please see below for the
+screenshots of my GRL login screen.
+
+* GRL Screenshots:
+[[/home/jarch/Screenshots/2022-01-24_16-44.png]]

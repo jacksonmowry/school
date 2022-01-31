@@ -1,0 +1,96 @@
+% Created 2022-01-28 Fri 13:09
+% Intended LaTeX compiler: pdflatex
+\documentclass[letterpaper, 11pt]{article}
+                      \usepackage{lmodern} % Ensures we have the right font
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage[table, xcdraw]{xcolor}
+\definecolor{bblue}{HTML}{0645AD}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{colorlinks, linkcolor=blue, urlcolor=bblue}
+\usepackage{titling}
+\setlength{\droptitle}{-6em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\usepackage[stretch=10]{microtype}
+\usepackage{hyphenat}
+\usepackage{ragged2e}
+\usepackage{subfig} % Subfigures (not needed in Org I think)
+\usepackage{hyperref} % Links
+\usepackage{listings} % Code highlighting
+\usepackage[top=1in, bottom=1.25in, left=1.55in, right=1.55in]{geometry}
+\renewcommand{\baselinestretch}{1.15}
+\usepackage[explicit]{titlesec}
+\pretitle{\begin{center}\fontsize{20pt}{20pt}\selectfont}
+\posttitle{\par\end{center}}
+\preauthor{\begin{center}\vspace{-6bp}\fontsize{14pt}{14pt}\selectfont}
+\postauthor{\par\end{center}\vspace{-25bp}}
+\predate{\begin{center}\fontsize{12pt}{12pt}\selectfont}
+\postdate{\par\end{center}\vspace{0em}}
+\titlespacing\section{0pt}{5pt}{5pt} % left margin, space before section header, space after section header
+\titlespacing\subsection{0pt}{5pt}{-2pt} % left margin, space before subsection header, space after subsection header
+\titlespacing\subsubsection{0pt}{5pt}{-2pt} % left margin, space before subsection header, space after subsection header
+\usepackage{enumitem}
+\setlist{itemsep=-2pt} % or \setlist{noitemsep} to leave space around whole list
+\usepackage{listings}
+\author{Jackson Mowry}
+\date{\textit{<2022-01-25 Tue>}}
+\title{Java Basics\\\medskip
+\large My notes from the first week of learning Java!}
+\hypersetup{
+ pdfauthor={Jackson Mowry},
+ pdftitle={Java Basics},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.6)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{String Functions}
+\label{sec:orgdc8da0c}
+Here are some of the basic operations we can perform on a string in Java!
+\begin{center}
+\begin{tabular}{ll}
+Function & Description\\
+\hline
+charAT(int index) & Returns single char at index\\
+endWith(String suffix) & Return true if string ends with suffix; otherwise false\\
+equals(String other) & Returns True if equal; otherwise False\\
+equalsIgnoreCase(String other) & ``'' but ignores case\\
+indexOf(String str) & Returns index of where str is located; otherwise -1\\
+isEmpty() & True if str is empty (length() == 0)\\
+length() & Returns chr count (includes whitespace and newline)\\
+replace(char old, char new) & Returns a new str with new instead of old\\
+split(String delim) & Retuns an array of Strings by dividing one string by the delimiter\\
+startsWith(String prefix) & Returns True is String starts with prefix; false otherwise\\
+strip() & Returns new string with leading and trialing whitespace removed\\
+substring(int from, int to) & Returns new string [from, to] (to not inclusive )\\
+toLowerCase() & Returns new string as all lowercase\\
+toUpperCase() & Returns new string as all uppercase\\
+s1 + s2 & Strings can be concatenated\\
+\end{tabular}
+\end{center}
+
+\section{String Escape Characters}
+\label{sec:orgd1ad90e}
+\begin{center}
+\begin{tabular}{ll}
+Escape Character & Description\\
+\hline
+backtick n & New line Character\\
+backtick t & Tab Character\\
+backtick r & Return character-returns to the beginning on the line\\
+\end{tabular}
+\end{center}
+
+\lstset{language=<python>,label= ,caption= ,captionpos=b,numbers=none}
+\begin{lstlisting}
+print ("Hello World")
+\end{lstlisting}
+\end{document}

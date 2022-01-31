@@ -1,0 +1,37 @@
+#+TITLE: Java Basics
+#+SUBTITLE: My notes from the first week of learning Java!
+#+AUTHOR: Jackson Mowry
+#+DATE: <2022-01-25 Tue>
+#+SETUPFILE: /home/jarch/Downloads/jake-latex-standard.setup
+
+* String Functions
+Here are some of the basic operations we can perform on a string in Java!
+| Function                       | Description                                                        |
+|--------------------------------+--------------------------------------------------------------------|
+| charAT(int index)              | Returns single char at index                                       |
+| endWith(String suffix)         | Return true if string ends with suffix; otherwise false            |
+| equals(String other)           | Returns True if equal; otherwise False                             |
+| equalsIgnoreCase(String other) | "" but ignores case                                                |
+| indexOf(String str)            | Returns index of where str is located; otherwise -1                |
+| isEmpty()                      | True if str is empty (length() == 0)                               |
+| length()                       | Returns chr count (includes whitespace and newline)                |
+| replace(char old, char new)    | Returns a new str with new instead of old                          |
+| split(String delim)            | Retuns an array of Strings by dividing one string by the delimiter |
+| startsWith(String prefix)      | Returns True is String starts with prefix; false otherwise         |
+| strip()                        | Returns new string with leading and trialing whitespace removed    |
+| substring(int from, int to)    | Returns new string [from, to] (to not inclusive )                  |
+| toLowerCase()                  | Returns new string as all lowercase                                |
+| toUpperCase()                  | Returns new string as all uppercase                                |
+| s1 + s2                        | Strings can be concatenated                                        |
+
+* String Escape Characters
+| Escape Character | Description                                           |
+|------------------+-------------------------------------------------------|
+| backtick n       | New line Character                                    |
+| backtick t       | Tab Character                                         |
+| backtick r       | Return character-returns to the beginning on the line |
+
+#+BEGIN_SRC <python>
+print ("Hello World")
+#+end_src
+* TODO test

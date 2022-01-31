@@ -1,0 +1,314 @@
+#+TITLE: Nutrition for Your Life
+#+SUBTITLE: Lee T. Murphy
+#+AUTHOR: Jackson Mowry
+#+DATE:<2022-01-28 Fri>
+#+SETUPFILE: /home/jarch/Downloads/jake.setup
+#+OPTIONS: \n:t
+
+* Chapter 1: What We Eat and Why
+** Introduction
+The study of nutrition is ever-changing, and thus we are always discovering new ways that the foods we consume are connected to overall health and wellness. We need both quality and quantity of the right foods for optimum performance.
+*** Sciences Invloved in the Study of Nutrition
+| Biochemistry |
+| Biology      |
+| Physiology   |
+| Genetics     |
+| Psychology   |
+| Sociology    |
+| Anthropology |
+| Immunology   |
+| Epidemiology |
+** Factors Affecting Food Choices
+There are many reasons we as humans choose to eat the foods we eat. \\
+*Social Needs:*\\
+Social events like a party or thanksgiving. Food is a social experience.\\
+*Food Customs and Cultures:*\\
+We don't get to choose our foods much as we grow up, so we end up eating the cultural norms of our parents.\\
+*Food Cost:*\\
+Looking for on-sale foods, or fast-food combo deals. Discounts like coupons or in-store deals will change where you choose to shop.\\
+*Education and Occupation:*\\
+If you are educatated on what foods are healthy you are more likely to choose those foods. Your lifestyle will affect how much time you have to plan and eat.\\
+*Routines and Habits:*
+Time of day will change what and where you can eat. Your schedule may make it convenient to eat out.
+*Health Habits:*
+Education on what you need to be healthy will play a role.
+*Food Marketing:*
+Check-out line purchases, colorful cereal boxes, tv ads. These all change what foods we decide to try or buy.
+*Food Availability:*
+You eat what is convenient to you, so if there are no healthy options you can't exactly just eat healthy.
+*Taste and Flavor:*
+We will eat what we enjoy the taste of.
+*Psychological Needs:*
+Our emotions will change our appetite, sad and we'll eat more, stressed and we'll go an entire afternoon without eating.
+*Religion:*
+Religious law or customs will restrict how people eat.
+*Body Image:*
+Some people eat or don't eat just to fit into their idea of a better body image.
+*** Supermarket Side-Track
+We don't really choose what we buy at the store. We end up buying things we didn't intend to buy. Our unconscious mind is swayed by food ads, and even without noticing it may influence us to buy food. Companies that pay more for shelf placement get their product on the middle shelf, right where we look when deciding what to buy. On top of this stores are set up like a labrynth, dark, and confusing.
+We also have default product sizes, meaning we tend to gravitate towards the bigger sizes, and thus will eat more of the same food. Another factor influencing food choices is our baseline of any specific quality. If we eat a lot of salty food we will tend to purchase more salty foods to keep ourselves at that baseline. The food industry benefits from this default because they have been pumping more and more of this salt into foods. They also change our expectations by changing food pairings.
+Lastly we have decision fatigue. The concept that making lots and lots of decisions over and over will eventually fatigue our brain causing us to give in to temptations much quicker. This plays out as we walk past end caps, and check-out stand displays right at the end of our shopping trip.
+** What is Nutrition?
+#+begin_quote
+/"The science of food, the nutrients and substances therin, their action, interaction and balance in relation to health & disease, and the process by which the organism ingests, digests, absorbs, transports, and excretes food substances"/ (The Council on Food and Nutrition of the American Medical Association)
+#+end_quote
+The primary reason for consuming food is to absorb their nutrients. These nutrients are vital for all bodily functions, called essential nutrients. If ommited you may experince bodily issues or abnormalities.
+Diet and lifestyle cause 2/3 of the deaths in the US, while heart disease and cancer make up 1/2 of all deaths. Almost all of these diet/lifestyle deaths can be delayed or even prevented if better nutrition is introduced. Cancer is interesting because while some types can be caused by a poor diet, almost all types can have their effects lessened with proper diet and lifestyle.
+** Obesity in the US
+What actually increases our risk of obesity or diabetes?
+
+In the US 70 percent of adults are overweight or obese. In children the number is better at only 30 percent. Looking at how we got here reveals some interesting trends. Starting in 1985 the graph shows a max obesity percentage of 10-14, while in 1991 we see 15-19 percent, then in 1997 we see >20 percent. 2001 shows a >25 percent group, and >30 percent showing up in 2005. Now every state in America has more than 20 percent of its adult population classified as obese, with an additional 12 states reporting >35 percent or more. While this trend is just reporting obesity there is another interesting correlation (maybe even causation?): *diabetes*. The progression of diabetes has almost exactly followed the obesity trends, albeit at a lesser rate, peaking around 10 percent. Obesity is a preventable condition that if left untreated will lead to detrimental health outcomes.
+** Six Classes of Nutrients
+| Name          | Energy Yielding | Organic |
+|---------------+-----------------+---------|
+| Carbohydrates | Yes             | Yes     |
+| Lipids        | Yes             | Yes     |
+| Proteins      | Yes             | Yes     |
+| Vitamins      | No              | Yes     |
+| Minerals      | No              | No      |
+| Water         | No              | No      |
+From these nutrients we seek to abosorb what out body needs in order to go about our days. There are two categories of these nutrients *energy yielding* and *nonenergy yielding*. Energy yeilding nutrients help fuel our body in the form of calories (energy). The nonenergy yielding nutrients help with energy production, but do not themselves supply said energy.
+** Macronutrients
+This includes, carbs, fats, proteins, and water. They are measured in Calories/gram.
+*Carbohydrates* can either be simple or complex. Simple sugars are small units of carbohydrates, while complex carbohydrates are made up of >2 simple sugars put together in many different forms. Another lesser form (not lesser in importance) of carbohydrates is Dietary Fiber. The body is not able to process this fiber, but instead it is fermented in the large intestine and its helps to promote a healthy GI tract. Plus this additional fiber seems to help lower the risk of colon cancer.
+*Lipids (or fats)* are a dense energy store that can be called upon in times of fasting. Three common types are: tryglycerides, sterols, and phospholipids. Unsaturated fats are generally considered healthy while saturated fats are considered unhealthy.
+*Protein* is the only macronutrient containing nitrogen, providing the body with amino acids. They make up almost all of our cells, and can sometimes be used directly (more so indirectly) for energy.
+*Water* is a macronutrient due to the large quantity needed, although unlike the first three it does not provide energy. *9-13 cups a day* is reccomended from fluids and foods.
+** Micronutrients
+This includes vitamins and minerals, called micro due to the relativly small amounts needed. They power and enable many chemical reactions in the body. These functions include: metabolism, growth and development.
+| Vitamin | Solubility |
+|---------+------------|
+| A       | Fat        |
+| B       | Water      |
+| C       | Water      |
+| D       | Fat        |
+| E       | Fat        |
+| K       | Fat        |
+We also have minerals which help the nervous system, aid in water balance, support body structure, and other cellular processes.
+| Mineral   | Quantity |
+|-----------+----------|
+| Calcium   | Major    |
+| Potassium | Major    |
+| Sodium    | Major    |
+| Magnesium | Major    |
+| Iron      | Trace    |
+| Zinc      | Trace    |
+| Iodine    | Trace    |
+| Chromium  | Trace    |
+| Fluoride  | Trace    |
+** Other Constituents of Food (Nonnutritnets)
+Nonnutrients are compounds in food not part of the previously addressed 6 nutrients. Herb, and spices fall on this list, along with phytochemicals, and polyphenols.
+** Nutrition Math
+Calories are a form of heat energy, we eat food and we produce heat. The first thing you should look at on a food lable is the portion size, all values and percentages are based on this amount.
+** Recommendations for Macronutrients
+Different medical conditions will change how much of each nutrient we need.
+|  Age | Carbohydrates | Protein |   Fat |
+|------+---------------+---------+-------|
+|  1-3 |         45-65 |    5-20 | 30-40 |
+| 4-18 |         45-65 |   10-30 | 25-35 |
+|  >19 |         45-65 |   10-35 | 20-35 |
+These values are set by epideniologists that seek to reduse risk of chronic disease by sticking within these guidelines. These recommendations are not perfect, because they say nothing about the quality or type of food. We may consume the right percentage of carabohydrates but they mostly come from simple sugars. Likewise we may consume the right amount of protein and fat but they come mostly from animal sources leading to a higher intake of saturated fats.
+** Improving Our Diets
+The /Healthy People/ initiative designs a 10 year plan to improve the health of all Americans. This includes thaking the =taking the initiative, the vision, mission, foundational principles, plan of action, and overarching goals=. The goals is to promote health while at the same time reducing the rusk for chronic disease. Eat healthy and maintain a healthy body weight. They seek to discover how to make a better environment that will be more condusive to these healthy behaviors.
+#+begin_quote
+- /Consume a variety of nutrient-dense foods within and across the food groups, especially whole grains, fruits, vegetables, low-fat or fat-free milk or milk products, and lean meats and other protein sources./
+- /Limit the intake of saturated and trans fats, cholesterol, added sugars, sodium, and alcohol./
+- /Limit caloric intake to meet caloric needs and avoud unhealthy weight gain-including recommending that those whose weight is too high may also need to lose weight./
+#+end_quote
+** Hunger, Appetite, and Satiety
+Hunger does not equal appetite. Hunger is the bodies need to eat to survive, and fuel our daily processes. Appetite is the mind telling you to eat, driven by our senses and environment. While these two are different things they do often occur together, though not always. What ties these two terms together is satiety: the feeling of fullness, or not needed to eat more to be satisfied.
+* Chapter 2: What Am I Supposed To Consume? Recommendation for a Healthy Diet
+** Introduction
+Often diet choices are confusing, you hear different things from just about every "expert". Building a healthy diet for you may just invlolve some simple swaps like substituting whole foods for more processed foods.
+** Balance, Variety, and Moderation
+Three buzz words of nutrition: variety, balanced, moderate. We must eat many different foods in order to get all of the proper nutrients. Look to eat from all the food groups, as well as eat many different foods from within each food group. Food color is an easy way to make sure that you are getting a variety of nutrients from the foods you are consuming.
+We needs to make sure our diet is balanced, but what does this mean? Well we should seek to consume mostly healthy foods, with a little bit of fun foods sprinled in. You must also be cautious of how much you eat, this is an important factor to help maintain a healthy weight. Each person needs to eat a different amount of food to achieve their health goals. We try not to overconsume any one group of nutrients, as this may lead to hazards.
+Another term is adequacy, meaning we want a diet that provides enough of each nutrient.
+*** Consume a VARIETY of foods, BALANCED by a MODERATE intake of each food
+/No one (natural) food supplies all the nuterint your body requires. Choosing a Variety of foods is essential to supply nutrients./
+/Balance foods within and among food groups daily/
+/Stay physically active to Balance your eating patterns/
+/Control how much you eat through moderation/
+** Nutrient Density versus Energy Density
+Nutrient density refers to the overall nutrient content of a food compared to its amount of calories (energy). Nutrient dense foods tends to be what we think of as healthy foods. Spinach is more nutrient dense than candy, and in the same manner a plain baked potato is more nutrient dense than its french fried coutner-part. We also have to look out for empty calores, things like sugar that contain almost no nutrients. They are simply energy (calories) that provide no nutrients to the body. You can easily choose higher nutrient dense foods by looking for the low-fat, or no added sugar versions of food.
+Another important concept is energy density (or caloric density), which refers to a amount of energy in a food relative to its weight. Foods high in water and fiber, but low in fat and added sugars can often be considered non energy-dense foods. Desserts and sodas are energy-dense, while fresh fruits and vegetables are low in energy-density. Foods can be any conbination of the two factors. The foods we really want to avoid are those that are energy-dense and not nutrient-dense.
+** How Do We Measure Nutritional Health?... ABCDEs
+*A*: Anthropometrics, or a persons physical measurements which can be compared to the healthy range for a persons age/height.
+*B*: Biochemical,  nutrient quantity in the blood, urine, and feces.
+*C*: Clinical, a physical exam looking over all aspects of your body. Some symptoms (and thus their causes) make themselves apparent, while others hide on the inside.
+*D*: Dietary, a log of what a person eats every day, provifing patterns and behaviors.
+*E*: Environmental, a look at a persons situation and how it impacts their food decision making power.
+** States of Nutritional Health
+Once we go over the ABCDEs we can create a picture of a persons nutritional health.
+*Desirable* nutrition is defined as our energy/nutrient intale matching our bodies physical need. All body processess are able to function at their desired rate, and a persons body weight stays around the same value. simply: no excess, no deficiency.
+*Malnutrition* is used to describe the condition of the body not being in the ideal nutritonal state. There are 2 forms on malnutrition:
+*Undernutrition* is the state when are persons nutrient/energy intake is below what their body needs in order to function at its ideal state. This can manifest in the form of insufficient nutrient intake, or an overall lack of calories.
+*Overnutrition* is the state of a persons intake exceeding their bodyily needs. This may lead to conditions like obesity, diabetes, and even toxic levels of some micronutrients.
+** Brief History of Nutritional Guidance
+The federal government creates recommendations based on research in order to promote healthy eating in the US. Over time these recommendations change leading to new guidelines that may change things that have been said in the past. We have gone from a wheel of 7 food groups, to 4 main food groups, then eventually back to 5. These every changing guidelines are a prime example the research never stops, and that when you "fix" one problem another problem might become more prevelent. The guideline now is called MyPlate, showing a graphic depiciton of a plate with 5 food groups seperated into section.
+** MyPlate Overview
+Veggies and fruit should fill half your plate, and be varied in color. A small glass of dairy indiciated that some dairy should be included in the diet, but not an excess. Grains should idealy come in the form of whole-grains, for fiber and nutrients. Lastly protein should come from lean sources, prepared in a manner that does not add additional fat.
+*** Limiatations of MyPlate
+These guidelines are not recommended for children >2 years old. Children at this age need more fats as they are essential to their growth. Although the plate tries to show an abstracted "American" meal in doing so it eliminates any of the education surrounding individual food choices. Instead it shows colorful sections indicating exactly nothing, a viewer must take the time to go to the website or seek additional resources in order to find out what foods to consume.
+** Dietary Guidelines For Americans
+These guidelines seek to offer recommendations for what foods/nutrients should be consumed. Today overnutrition is becoming just as much of a concern as undernutrition. They seek to lower the risk of disease through recommendations. Recently there has been an increased focus to physical fitness being an important part of maintaining a healthy weight.
+| 1 | Follow a healthy dietary pattern always                 |
+| 2 | Change and enjoy cultural foods to fit your lifestyle   |
+| 3 | Focus on nutrient-dense foods to get your RDA           |
+| 4 | Limit added sugars, saturated fats, sodium, and alcohol |
+It is important to eat healthy at all age ranges, and it is never to late to start eating heatlhy. Younger children need additional fats to suport growth, while adults can consume less fat to be fully functional. Food culture is important, so don't cut out your favorite foods all together, instead make chages to the recipe in order to make it fit in your nutritional goals. Staying within your calorie limit is very important, but of equal importance is getting all of your nutrients fufilled. So focus on nutrient dense foods to fill these macro and micronutrient goals. Limit anything mentioned in the 4th category above, the are detrimental to one's health. Additionally recommendations have been made to include some form of exercise in everyones lifestyle.
+** Components to Reduce
+Although the federal government goes through all the trouble of putting out these recommendations more that 3/4 of the population fails to meet these guidelines, in one way or another. It seems like we love to overconsume calories, and underconsume the nutrient-dense foods we need.
+*** Added Sugars
+Those "empty calories" we mentioned early are very prevelent in soft drinks. Just having one soda will put you within 15 percent of your RDA for added sugars. Reducing one's consumption of added sugars will greatly reduce the risk of obesity, type 2 diabetes, and some cancers.
+*** Saturated Fat
+Strive for less than 10% of your daily calories coming from saturated fat, for heart health go for 5-6%. Replacing saturated fat with unsaturated fat will lessen your risk for cardiovascular disease. Replacing saturated fats with carbohydrates does not reduce your risk of cardiovascular disease. There is no evidence that dietary cholesterol increases serum cholesterol, but the recommendations state that you should eat as little as possible.
+*** Sodium
+Sodium intake should not exceed 2300 mg/day (about a teaspoon). For those at risk of certain heart conditions sodium intake is limited to 1500 mg/day.
+| Populations at risk               |
+|-----------------------------------|
+| Individuals over the age of 50    |
+| African Americans                 |
+| Those with high bolld pressure    |
+| Those with diabetes               |
+| Those with chronic kidney disease |
+These at-risk groups make up about half of the US population. As sodium intake goes up so does blood pressure, this is a problem because many of the processed foods that make up the American diet contain excess sodium.
+*** Refined Grains
+These grains are the product of grains that have had their nutrient-dense outer later (bran) removed. In addition many of these grains will contain added sugars in their final forms.
+*** Table of Foods to Reduce
+| Food Component to Reduce | Method to Reduce                                            |
+|-------------------------+-------------------------------------------------------------|
+| Added Sugars            | Consume less than 10% of daily calories from added sugars   |
+| Saturated Fats          | Consume less than 10% of daily calories from saturated fats |
+| Sodium                  | Consume less then 2300 mg/day (1500 mg/day for at-risk)     |
+| Alcohol                 | In moderation,  1 drink/day female,  2 drinks/day male      |
+** Components to Increase
+There are some foods we are currently under-consuming, it might be a good idea to look at some of these foods as potential replacements for the foods we are currently over-consuming. One group we are under-consuming is whole grains. Instead we are consuming refined grains at much higher quantites. Another group we generally under-consume is vegetables. We could also use some more seafood in our diets. Once again all of the evidence is pointing to the fact that we as Americans need more variety and balance in our diets.
+** Dietary Guidelines and Your Food Choices
+While many of the core recommendations about diet have remained the same over time, don't think that just becuase they don't change doesn't mean that they are incorrect. In fact much of the research has confirmed many of the old beliefs or recommendations, while some of the research has disagreed with past recommendations. Becuase of this food and diet guidelines change all the time, an ever evolving cycle of research and refinment.
+There are also additional factors at play when viewing how people choose what they eat. For example individual likes and dislikes play a huge role in the "everyday" foods we eat. In addition someone who knows a ton about nutrition will make "smarter" choices than someone who is entierly uneducated about the subject. One must also consider the environmental influences a person faces day to day. If all of your co-workers eat out for lunch everyday you are more than likely to join them at least once. Your household may also play a role in what foods are convenient to eat, and what variety of food you have available to you.
+Influence from marketing is more prevelent now than it ever has been before. The amount of ads we see just based on food is very high, and even if you are not consciously paying attention to the ad it may have a subconscious influence next time you are are out-and-about and find yourself in need of a meal.
+Lastly it is important to consider social and cultual norms. For example how many parties or social-gatherings have you been to where there wasn't some sort of food/beverage being served. In fact we even have entire events centered around the coming together and sharing of food (Thanksgiving, Potlucks, Business Dinners. . . )
+*** Advicde from the Academy of Nutrition & Dietetics
+| Be realistic, make small changes        |
+| Be adventurous, try new foods           |
+| Be flexible, balance food with activity |
+| Be active daily                         |
+** Consumer Food Guides: Dietary Reference Intakes
+The DRIs are set to help a person know how much of each nutrient they need for their individual person. This breaks down further into Estimated Average Requirements and Recommended Dietary Allowances.
+Estimated Average Requirements refers to the amount of each nutrient a person should intake based on research for that nutrient. 50/50, half we need more, half will need less.
+Recommended Dietary Allowances takes the EAR and bumps it up to 98/2, meaining 98 percent of the population will be good, without taking this number too high into the possible toxic levels.
+Of course these above recommendations are very general as such individuals experiencing prolonged sickness or disease will need to consult their health care provider.
+Another nutrient intake lable is Adequate Intake,  this is established when there is insufficient research to set an RDA, so researchers will set an AI range for that nutrient.
+Next we have Tolerable Upper Intake Levels,  these limits are established for vitamins and minerals that are considered toxic if consumed in too high of quantities.
+Lastly we have Daily Values, these are set on food lables so that we have a general idea of how this food will fit into our daily calorie allotment.
+*** How are DRIs Established?
+| Dietary Reference Intakes      | Estimate the amount of a nutrient needed     |
+| Estimated Average Requirements | Amount of nutrient for 50% of the population |
+| Recommended Daily Allowance    | The EAR moved up to 98% of the population    |
+| Adequate Intake                | Used when no EAR exists for the nutrient     |
+* Chapter 3: Am I Consuming What My Body Needs?
+** Introduction
+It is once again important to remind ourselves that a varied and balanced diet is far more important than picking the "one" correct food to eat forever. Let's look at how we can take nutrient intake recommendations and apply them to our lives.
+** In the Past: The Food Guide Pyramid
+The food pyramid was mainly used as a teaching tool with its ability to help an individual select components of a healthy diet. It also seeks to encourage each person to include some form of physical activity in their daily life. The size of pyramid sections is meant to indicate how much of each sections to consume.
+** ChooseMyPlate
+After recommendation from health professionals and consumers alike a new graphic was designed in 2011: MyPlate. Instead of representing food groups as slim triangles making up a pyramid this graphic choose to use a typical plate split into different food groups. 5 section split up into Fruits, Grains, Protien, Vegetables, and Dairy. The sizes go Vegetables > Fruits > Grains >  Proteins > and Dairy.
+Some of the goals of the new graphic were: Balancing Calories, (Increasing Fruits, Vegetables, and Whole Grains), and reducing the less healthy subnutrients. The plate can help someone meet their nutrient recommendations while not exceeding their calorie allotment. The guide hopes to focus your food choices towards nutrient-dense foods to make up your standard nutrient allotment, then adding foods you would like to eat on top of that.
+** In-Depth on the Food Groups
+*** Grains
+In a 2000 calorie diet the recommendation would say that you need to eat 6 oz of grains, with 3 oz coming from whole grains. This recommendation seeks to increase whole grains and reduce refined grains. The fiber from whole grains can help with problems such as weight maintenance, digestion, cholesterol, and blood sugar control.
+*** Protein
+As Americans we consume plenty of the main meat and nut based protein, but we lack in seafood protein. We should also look to increase the nutrient-density of our protein choices by picking the low-fat or lean options. Along with making type of meat swaps we can look to get our protein for otehr sources to help further lower saturated fat and cholesterol intake. For some (mainly males) need to reduce overall intake of protein in order to make room for more vegetables. Recommended amounts for a 2000 calorie diet are around 5.5 oz of meat.
+*** Vegetables
+There are 5 classes of vegetables: Dark Green, Orange, Starchy, Dry Beans and Peas, and Other. A person should seek to consume 2.5 cups of vegetables daily. The current guidelines would like to see individuals consume more vegetables, and a greater variety of vegetables. Look to consume a vegetable at every meal. If canned vegetables are to be consumed make sure minimal sodium is added during processing.
+*** Fruits
+Look to consume whole fruits, around 2 cups a day. All preperations of fruit are acceptable as long as they are in their pure form without any added sugars.
+*** More Matters and "5-A-Day" Goals for Fruits and Vegetables
+Eating your recommended quantity of fruit will help you maintain weight, stay healthy, and reduce the risk for chronic disease. 5-A-Day was added to raise awareness of thr benefits and needs of eating healthy food. Now they just recommend eating /more/ fruits and vegetables as opposed to the previous 5-9.
+*** Dairy
+Reccomendations state that 3 cups of dairy should be consumed daily. Most individuals would benefit from an increase in consumption of low-fat or non-fat forms of daily products. Try to avoid cheese for its unecessary saturated fats.
+*** Oils and Fats
+Oils and Fats are not even mentioned on the current version of myplate, meaning none should be consumed on their own. Instead a person should seek to get all of the daily fat from other sources in their unsaturated forms. Try to swap unsaturated fats for saturated fats in any place you can.
+*** Physical Activity
+Physical activity is a firm recommendation for everyday life. For those ages 18-64 150 minutes of moderate intensity exercise is recommended.
+*** Beverages
+Although some may not consider beverages when logging food intake, they can often add a large number of calories per beverage. Sugar sweetened beverages can easily add a ton of calories. Seek to consumer calorie free beverages, and nutrient-dense beverages (milk or 100% juice).
+** Energy Balance & Healthy Weight
+Maintaining a healthy weight is a simple formula of energy in and energy out. Undereat and you will lose weight, overeat and you will gain weight. Adding 100 calories per day can add up over a year to a 10lb weight gain. As someone ages their need for food (and thus their metabolism) will decrease, meaning they need to eat less to maintain their current weight.
+Here are some considerations when making choices regarding weight control
+| Control your portions   | Know how much food you need to fill your calorie allowance     |
+| Control you environment | keep tempting foods our of the home, know when you can eat out |
+| Avoid overeating        | Make conscious choices about how much food you eat all days    |
+| Consider repackaging    | Create smaller portions for yourself out of the entire meal    |
+** Nutrition Information
+Nutrition facts are vital when making healthy diet choices, they allow us to know what and how much we are putting in our bodies.
+*** Serving Size/Servings per Container
+Look for serving size, along with servings per container. This information will help you relate the full container size with how much you can consume within your daily allowance. Serving sizes has recently been increased in order to more accuratly match how much people actually eat. Packaged foods will now have both a per serving, and per package nutriton facts.
+*** Calories
+Calories are now labeled in a bigger font for easily readibility, as caloreis are the most important factor in diet choices.
+*** The Nutrients
+On the nutrition lable you will see certain key nutrients highlighted.
+| Nutrient      | Limit | Increase |
+| Saturated Fat | x     |          |
+| Trans Fat     | x     |          |
+| Cholesterol   | x     |          |
+| Sodium        | x     |          |
+| Dietary Fiber |       | x        |
+| Vitamin D     |       | x        |
+| Iron          |       | x        |
+| Potassium     |       | x        |
+An interesting note is that calories from fat was removed after research showed that the type of fat consumed was much more important than overall fat consumed.
+*** The Percent Daily Value
+Percent Daily Value is based on a 2000 calorie diet and shows what percent of your daily allotment would be fulfulled by eating this food.
+*** Label Lingo: Food Label Terms and Health Claims
+When a nutrient has been found to have positive health benefits it will often be advertised or highlighted on food packaging.
+A *Nutrient Content Claim* describes the level of a nutrient or dietary substance in the product (free, low, reduce, lite, more, and high).
+| Free                     | May only contain a trivial amount that has little physiological effects |
+| Calorie Free             | >5 calories per serving                                                 |
+| Low Calorie              | >=40 calories per serving                                               |
+| Less or Reduced Calories | 25% fewer calories than the reference food                              |
+| Fat free                 | Less than 0.5g fat per serving                                          |
+| Low fat                  | 3g fat per serving                                                      |
+| Reduced or less Fat      | 25% less fat than the reference food                                    |
+| Saturated fat free       | >0.5g saturated fat                                                     |
+| Low in Saturated Fat     | >1g and >15% from saturated fat                                         |
+| 0 Trans Fats             | >0.5g                                                                   |
+| Sodium Free              | Less than 5mg                                                           |
+| Low Sodium               | >140mg                                                                  |
+| Sugar Free               | >0.5g sugar                                                             |
+| No Added Sugars          | No added sugar during processing                                        |
+| Good Source of           | 10-19% DV for that nutrient                                             |
+| High in                  | >20% DV                                                                 |
+*Health Claims* describe an ingredients link to reducing the risk of disease or other health condition. These claims must be vague. You essentially just need to say "may" reduce the risk of _____.
+*Structure/Function* refers to claims about an ingredient boosting the bodys processes making a healthier human.
+** Food Allergies and the Food Label
+There are a few common allergens that must be listed on food labels. Milk, eggs, peanuts, tree nuts, shellfish, soy, and wheat. Disclaimers like "this product was manufactured in a plant that also processes wheat" are voluntary.
+** Organic Products and the Food Label
+While organic foods do not contain more nutrients within, they may reduce the chance of exposure to pesticide residues and antibiotic-resistant bacteria.
+| Cage-free  | flock must be able to freely roam in an enclosed area, access to water and food |
+| Free-range | flock is provided shelter and allowed to be outside                             |
+| Natural    | minimally processed meat/eggs                                                   |
+| Grass-fed  | animals recieve a majority of their nutrients through grass            |
+* Chapter 4: How Do I Get Energy From My Food?
+** Digestion and Absorption
+All the foods we put into our body have a certain function, and in order to perform this function our body needs to be able to absorb the nutrients contained within. This is espicially important for those nutrients considered essential, meaning our body cannot produce them on its own.
+*** Body Systems and Nutrients
+Many complex organ systems must work together in order for our body to function. As nutrients come in they are used to create new substances, and the old substances are recycled.
+The cell membrane is a bilayer of lipids, protiens, and cholesterol. It holds all the cell together and allows substances to pass in and out.
+The cell nucleus is the componenet responsible for controlling cellular actions and directs protein synthesis and cell division.
+** How Are Nutrients Transported?
+The four different types of collular absorption are: passove, facilitated, active, and phagocytosis/pinocytosis.
+*** Passive Diffusion
+The process where lipids, water, and minerals are absorbed through what is essentially osmosis, no energy is required for the process.
+[[/home/jarch/Screenshots/maim-region-20220129-193008.png]]
+*** Facilitated Diffusion
+High concentration nutrients move across the membrane with the packaging of a carrier protein. The common sugar fructose uses this method to move in to a cell without energy.
+[[/home/jarch/Screenshots/q.png]]
+*** Active Transport
+A transport method in which a carrier protein and energy are used to move the nutrient. Glucose, amino acids, and minerals use this method.
+*** Phagocytosis/Pinocytosis
+These two processes invlove the cell engulfing the nutrient before being passed through the cell membrane. Phag is for solids, and Pino is for liquids. The lymph system, and the cardiovascular system also use these methods for transporting nutrients.
+[[/home/jarch/Screenshots/-region-20220129-194435.png]]
+[[/home/jarch/Screenshots/-region-20220129-194550.png]]
+*** Summary of the Movement of food through the Digestive System
