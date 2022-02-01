@@ -487,3 +487,28 @@ The body is unable to produce insulin (thought to be a result of autoimmune dise
 *** Type 2 Diabetes
 Also known as noninsulin dependent diabetes mellitus. About 90 percent of all diabetes mellitus is a result of type 2 diabetes. Although many factors can lead to a condition of type 2 disbetes even just a 5-7 percent weight loss can significantly improve insulin sensitivity. Certian genertic makeups have prediposition to this condition.
 *** Gestational Diabetes
+This type of condition can often occur during pregnancy, patients must work with doctors to make sure the fetus is nat harmed. Mothers that experience this condition are much more likely to get type 2 disbetes later on in life.
+** Complications from Diabetes
+Prolonged hyperglycemia can lead to conditions of ketosis and acidosis. Ketosis occurs when the body can no longer rely on glucose enetering the cells for energy, so the body pulls energy from fat, making ketones. Acidosis is caused by a buildup of acids, both of these conditions combined will lead to a person becoming drowsy and letargic. Additionally the body will also break down proteins for energy, leading to excess kidney stress. Resulting in kindey damage and eventually kindey failure.
+While there are many risks associated with being diabetes the most deaths occur from cardiovascular disease.
+Prolonged diabetes will lead to eye damage, blood veins narrowing, nerve damage, never ending infections.
+While people with diabetes often experice hyperglycemia, they can also experience hypoglycemia from excess insulin usage. Hypoglycemia results in an individual feeling light headed, sick, and eventually becoming unconscious.
+** Risk Factors for Type 3 Diabetes
+Although genetic factors can play a role in the onset of diabetes, it is much more important for focus on the factors you can control.
+Risk Factors
+| Overweight/Obese                |
+| > 45 y/o                        |
+| Family History                  |
+| African American                |
+| High BP                         |
+| Low HDL, High Trigs             |
+| History of Gestational Diabetes |
+| Not active                      |
+| History of Stroke/Heart Disease |
+| Depression                      |
+| PCOS                            |
+| Acanthosis Nigricans            |
+** Diagnosis of Diabetes
+If anyone has symptoms they should be tested. Fasting plasma glucose or hemoglobin A1C tests are used.
+** Lowering Risks and Treatment for Type 2 Diabetes
+The longer a person has diabetes the worse off they will be. So they should seek to eat less food, and become more active. Control carabohydrates, Increase activity, Take medications to encourage proper insulin response. Try to lower your weight, control glucose intake (make smart choices), better lifestyle choices to help blood pressure and cholesterol, engage in preventative care. Once you have diabetes it will never go away for the rest of your life.
