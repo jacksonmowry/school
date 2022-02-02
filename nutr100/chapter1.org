@@ -512,3 +512,61 @@ Risk Factors
 If anyone has symptoms they should be tested. Fasting plasma glucose or hemoglobin A1C tests are used.
 ** Lowering Risks and Treatment for Type 2 Diabetes
 The longer a person has diabetes the worse off they will be. So they should seek to eat less food, and become more active. Control carabohydrates, Increase activity, Take medications to encourage proper insulin response. Try to lower your weight, control glucose intake (make smart choices), better lifestyle choices to help blood pressure and cholesterol, engage in preventative care. Once you have diabetes it will never go away for the rest of your life.
+** Dietary Factors to Consider for Diabetes
+It is important for a diabetic to eat on a regular pattern in order to ensure proper interaction with medication. The most important energy source to evenly space is carbohydrates. Foucs on heart-healthy food. It is important to get all types of carbohydrates throughout the day, but know foods with starch or simple sugars will have the greatest effect on blood sugar. A carbohydrate counting diet may be implemented to help an individual watch their consumption.
+* Chapter 6: What Are Fats and Lipids?
+** Introduction
+Fats are lipids that contain nine calories per gram and come in both fat and oil form.
+** Forms of Lipids
+Lipids are defined as a substance that cannot dissolve in water. They come in forms such as:
+| Fatty acids           |
+| Trigycerides          |
+| Phospholipids         |
+| Sterols (cholesterol) |
+Trigycerides and phospholipids contain fatty acids.
+** Fatty Acids
+Fatty acids consist of of a chain of carbons linked together. One end is hydrophobic and the other end is hydrophilic.
+*** Fatty Acid Saturation
+*Saturated Fats* have a hydrogen at every possible position, meaning all carbon carbon bonds are single bonds.
+*Unsaturated Fats* have one or more points of unsaturation, where a hydrogen is missing, leading to carbon carbon double bonds. One = mono, two or more = poly.
+Saturated fats are solid at room temperature and are mainly derived from animal sources. Unsaturated fats are generally liquid at room temperature, and ae derived from plant sources. Foods actually contain a mixture of the three types, but the main type determines its state at room temperature.
+Foods that contain saturated fats can raise blood cholesterol in some people.
+** Types of Lipids
+*** Triglycerides
+These make up about 95% of all lipids, and are what the body can use for energy and storage. They are called triglycerides because of the structure: one glycerol molecules and three fatty acids. The fatty acids can be either essential fatty acids or nonesential fatty acids.
+*** Phospholipids
+The same structure of a triglyceride with one fatty acid replaced by a phosphate group, giving the molecules emulsification properties.
+Lecithin is a common emulsifier used in the food industry. Phospholipids allow water and fat interactions within the bodies cells and blood.
+Phospholipids are also used in the synthesis of acetylcholine.
+*** Sterols/Cholesterol
+Sterols and Cholesterol have a ring like structure as opposed to the chains from above. Many hormones in the body are made from cholesterol, and it is also used in making bile (for food processing in our GI tract).
+Although cholesterol is a necessary part of bodily function our livers can actually make all that we need. Saturated fat consumption plays a much larger role in serum cholsterol than dietary cholsterol consumption.
+** Hydrogenated Fats
+Since saturated fats have some hydrogens missing they are susceptivle to oxidation, where they can combine with oxygen. This leads to a oil going rancid. For some oils they will be partially hydrogenated in order to increase product shelf life.
+The hydrogenatin of oils may lead to the production of trans fatty acids, which is associated with heart disease.
+The consumption of trans fats can lead to increasing LDL and lowering HDL.
+Trans fats are now banned from being added to food. It is estimated that half of the trans fats Americans were consuming were from partially hydrogenated oils. Some foods can naturally contain trans fats, these are still allowed.
+*** Butter vs Margarine
+The nonhydrogenated spreads are the best option, containing almost no saturated fats, and no cholesterol. New spreads contain emulsifiers to allow for better texture and less fat. Some even contain soy (benecol) which has been shown to increase HDL and lower LDL.
+** Lipid Disestion and Absorption
+Fats being hydrophobic face an interesting challenge in the digestion process, they need to work with the water soluble fat enzymes. In order to accomplish this fats need to be broken down to their smallest parts.
+Salivary, gastric, and pancreatic lipase work to break down fats, going from triglycerides to monoglycerides. Bile acid is also used to emulsify fats into the watery digestive juices.
+Phospholipids are browken down using pancreatic enzymes, ending up as glycerol, fatty acids, and phosphorus-containing parts.
+Cholesterol is digested into free cholesterol and fatty acids which are then transported into the blood.
+** Lipid Transportation
+Lipoproteins are used in the transportation of fat, the four types are:
+| Chylomicrons                  |
+| Very low-density lipoproteins |
+| Low-density lipoproteins      |
+| High-density lipoproteins     |
+*Chylomicrons* are formed when fats are absorbed in the small intestine, and they transport lipids to the liver.
+*VLDLs* are made in the liver and contain both triglycerides and cholesterol. They become LDLs afterwards.
+*LDLs* are produced from VLDLs and will deliver cholesterol to other tissues.
+*HDLs* are made in the liver and small intestine. They decrease the risk of heart disease by removing cholesterol from cells and blood vessels, returning it to the liver for breakdown.
+*** Good Cholesterol vs Bad Cholesterol
+HDL acts like a cholesterol trash collector for our bodies reducing the risk of heart disease, and clogged arteries.
+LDL is a cholesterol litter bug and can lead to heart attack, or myocardial infarction.
+Premenopausal women have high HDL while post menopausal women have low HDL leading to higher risk for heart disease.
+** Lipid Metabolism
+Fatty acids can either be used for fuel or tuned into triglycerides and stored for later. In muscle they are used to make ATP, and the remaining componets are stored as fat.
+*** Feasting
