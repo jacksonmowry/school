@@ -1,8 +1,8 @@
 #+TITLE:Notes
 #+AUTHOR: Jackson
 
-* Day 1 syllabus
-** TODO add dates from syllabus to calendar
+* Chapter 2
+** DONE add dates from syllabus to calendar
 ** Grading
 *** Exams 80%
 *** labs 20%
@@ -63,7 +63,6 @@ Hydrogen bonds: Weak bonds between hydrogen and other atoms
   - Carboxyl
   - Amino
   - Phosphate
-* Day 2
 ** Free Radicals
 - atoms of molecules containing a single electron
 - Unstable, and highly reactive
@@ -206,7 +205,7 @@ Hydrogen bonds: Weak bonds between hydrogen and other atoms
 | Motor proteins                         | initiate movement                                                                          | myosin, found in muscle cells, contractile force                                                 |
 | Structural proteins                    | support, connect, and strengthen cells, tissues, and organs                                | collagen                                                                                         |
 | Defense proteins                       | protext against infection and disease                                                      | cytokines and antibodies                                                                         |
-** TODO Take notes of 1-4 protein structures
+** DONE Take notes of 1-4 protein structures
 ***  Protein Conformation
 - in nature proteins appear folded,  bended, or twisted forming more compact strctures
 - this is known as a proteins conformation
@@ -236,3 +235,99 @@ Hydrogen bonds: Weak bonds between hydrogen and other atoms
 - if more than one polypeptide chain is bonded together it is known as a quaternary structure, or multimeric proteins
 - the same forces act upon these proteins as described above
 - therefore the subnits are held together in the same ways
+
+** Nucleic Acids
+Consists of DNA and RNA. Nucleotide monomer.
+DNA - deoxyribonucleic acid,  A, T, C, G, double helix, hereditary material
+RNA - ribonucleic acid, A, U, C, G, organizes protein synthesis, ribose sugar
+Nucleotides are composed of, a phosophate, a pnetose sugar, and a
+nintrogenous base (A, T, C, G, or U)
+Hydrogen bonds hold DNA together, meaning it is a great way to store information. The 650 million hydrogen bonds in chromosome 1 give it its very strong structure, great for storing information. The half life of DNA can be thousands of years. mRNA has a half life of 30 seconds to 6 hours. This short lived RNA gets the information from DNA to be used somewhere else.
+DNA and RNA are negatively charged. A and T will always be together, C and G will always be together, therfore A=T, and C=G. There will always be three rings in the center of the double helix, so one side (A) will have 2 rings, and the other side (T) will have one ring. The number of bonds between A and T will make 2 hydrogen bonds, C and G will form 3. G and C bonds are stronger than the A and T pairing. The reason why hydrogens bonds are better than covalent bonds is because they are weaking, making it much easier to break.
+When beginning DNA transcription it is necessary to start in an area with lots of A and T because those bonds are easier to break apart. We use these "markers" to show where to start. Humans have plenty of AT regions.
+A pyrimidine and purine combine to give you the three ring structure in the center of the double helix. How DNA is read and replicated is directional. 5' to 3', one strand will be one direction the other will be the other direction, the *anti-parallel* configuration. Both ends will need to be started on opposite ends.
+RNA is only a single chain, meaning it can hydrogen bond with itself. Ribose sugar rather than deoxyribose. The pyrimidine base thymine in DNA is replaced by uracil in RNA
+** ATP: The Energy Molecule of Cells
+Adenosine triphosphate, adenine, ribose, three phosphate.
+Function to transfer and storage of energy.
+High energy covalent bonds hold the three phosphates together. Three ADHD kids together on one seat in the bus. Kicking out one phosphate releases a ton of energy, puttong that energy into the cell and creating ADP. The bond between phosphate 1-2 is 8 times less energetic than the bond between 2-3. Lots of ATP vs ADP means a high energy state in the cell.
+* Chapter 3:  Cell Structure/Function and Metabolic Pathways
+| Component              | Structure                                       | Function                                                     |
+| Plasma (cell) membrane | Bilayer (phospholipid), embedded proteins       | Cell i/o                                                     |
+| Cytoplasm              | Fluid in which organelles float                 | Matrix for rnx                                               |
+| Smooth ER              | System interconnected-membrane                  | Metabolisze non-polar,  store ions                           |
+| Rough ER               | ""                                              | Assists protein synth                                        |
+| Ribosomes              | Granular particle made of protein/RNA           | Synth proteins                                               |
+| Golgi complex          | Cluster of flattened sacs                       | Synth carbs, package lipid/glycoproteins > secretion         |
+| Mitochondria           | Membranous sac, folded inner parts              | Release energy from food > ATP                               |
+| Lysosomes              | Membranous Sac                                  | Digest foreign molecules/old organelles                      |
+| Peroxisomes            | Sphere membrane                                 | Hold enzymes to detoxify                                     |
+| Centrosomes            | nonmembrane mass, two rods                      | Organize spindle fibers, Chromosome distribution for mitosis |
+| Vacuoles               | Membrane sac                                    | Store/Release substances in cytoplasm                        |
+| Microfillaments        | Thin hollow tubes                               | support cytoplasm and move moleculed                         |
+| Cilia/Flagella         | cytoplasmic projections extend from cell        | move particles outside of cell/move cell                     |
+| Nuclear envelope       | bilayer membrane around nucleus (protein/lipid) | nuc support/control passage of materials                     |
+| Nucleolus              | nonmembrane from protein and RNA                | Produce rRNA for ribosomes                                   |
+| Chromatin              | Fibrous strands composed of protien and DNA     | Hold genetic code, for synth                          |
+** Typical Sizes of Cell Structures
+Cells are 10 micrometers, cells are small but they are 10-100 times larger than primative cells. We can fit a lot in the cells but they must be organized very well in order to remain functioning. Things are very compartmentalized within cells, in order to allow different chemistry on the inside and outside of memebranes.
+** Comparison of Cytoplasm and Cytosol
+Cytoplasm: the parts in between the plasma membrane and the nucleus of the cell.
+Cytosol: the liquid everything is disolved in, leaving no free space anywhere in the molecule.
+** Membranes
+The major structural part of the cell. Regulates passage of substances in and out, and between organells and cytosol. Detects chemical messengers at cell surface. Links adjacent cells together by memebrance junctions. Anchors cells to the extracellular matrix.
+Some substances see a brick wall, others see a gate. These substances need some form of carrier (usually a protein) to get it. The membrane is a good place for substances to meet up and then to interact.
+*** Structure
+*Phospholipids* (amphipathic)
+Non-polar: 2 fatty acids, tail
+Polar: Phosphate head
+*Cholesterol*
+4 non-polar rings
+Interacts strongly with phospholipid fatty acids
+We need these two to act somewhere in between a liquid and a solid, creating a dynamic structure for input and output.
+This membrane has additional components in order to maintain fluidity.
+**** Membrane Proteins
+*Integral membrane proteins*: embedded within bilayer, can not be extracted without membrane dusruption, amphipathic, usually reffered to as transmembrane proteins.
+*Peripheral membrane proteins*: not amphopathic, located only on membrane surface.
+Both are needed in order to have a proper functioning membrane. 1/4 to 1/3 of DNA is for membrane proteins.
+These membrane proteins are embedded within or just on the surface.
+7tm crosses the bilayer 7 times. Has componenets on both the inside and the outside, allowing a message to bo transmitted seemlessly.
+*** Membrance Fluidity
+To many unsaturated fatty acids, will be to liquid due to not enough interactions. Leading to leaking cells. To much saturated fatty acids (to much interaction) will not allow anything in or out,  making a solid layer.
+Phosopholipids swap approx 10^7 times per second, or move side to side. Introducing cholsterol halps maintain this fluidity.
+*** Membrane Junctions
+Allow adjacent cells tophysically contact along part of their membrances securely.
+*Intergrins*: transmembrane proteins that bind to specific protiens in the extracellular matrix, and link them to membrane proteins on adjacent cells
+*Junctions*: desmosomes, tight junctions, gap junctions.
+**** Desmosomes
+A region between two adjacent cells where adjacent plas, a membranes are seperated by 20 nanometers, dense plaques along the cytoplasmic surface on the plasma membrane. They serve as anchoring points for cadherins, which are proteins that extend from the cell in to the extracellular space, they then link up and bind with cadherins from an adjacent cell. They hold adjacent cells firmly together in areas that are subject to stretching, skin.
+**** Tight Junctions
+When the extracellular surfaces of two adjacent plasma membranes join, so no space remains between. Occurs in a band around the entire cell. limit movement of material between cells. Gut and bladder.
+**** Gap Junctions
+Protein channels linking cytosols of 2 cells. Connexins form a small protein-lined channel. Allows small molecules like ions, not allowing larger proteins
+** Nucleus
+Storage and transmission of genetic information to the next generation of cells
+This stored information is usd to synthesize proteins.
+Chromatin- DNa in association with protiens forming a fine netwoek of threads
+During cell division, chromatin threads become tightly condensed, forming rod-like bodies known as chromosomes.
+Surrounding the nucleus is a barrier known as a nuclear envelope, composed 2 mebranes. The membranes are joined together forming nuclear pores, small circular openings. RNA and proteins move thorugh these pores.
+Nucleolus: densely staining filamentous region without a membrane prominent in the nucleus. This is the site of ribosome subnit assembly. Otherwise known where ribosomes are made, rRNA and proteins are combines. DNA is coverted to RNA which then folds in on itself.
+** Ribosomes
+Where proteins are created within a cell, comprised of protein and made using RNA instructions. On ribosomes protein molecules are made from amino acids, using genetic information from mRNA from the DNA in the nucleus.
+Small subunit is called 30S, a unit of time 10^-13 seconds. Time it takes for a subunit to reach a no movement in a centrifuge.
+50S is the large subunit,
+Full ribosome is 80s, within the cytoplasm and attached to somethig in the cell.
+2 kinds of ribosomes, free, bound. Free are in cytoplasm making protien. Bound are bound to the ER making a special protein.
+** Endoplasmic Reticulum
+Rough ER: ribosomes bound to its cytosolic surface, taking RNA and making amino acids language. Proteins go to the golgi apparatus, they must be bound up otherwise they will be off into the cytoplasm.
+Smooth ER: no ribosomal particals on its surface, lipids are made, also detocification of hydrophobic molecules. Stores and releases Ca2+ which controls various cells activities such as muscle contraction.
+Make more phospholipids, turns cholesterol into other steroids, deals with all sorts of lipids. Removes toxins from the cell, augmenting till its neutralized. Sequesters ions, keeping them out of the cytoplasm, stored for usage.
+** Golgi Apparatus
+Protein modification, trafficking. The protein stays in the same compartment the entire time, the machine (organell) moves around it. Secretaory proteins are pushed outside the cell. Vesicle proteins
+They can also turn into their own organell, something like a digestive enzyme.
+The side that faces the ER serves as the site of entry, the other side faces the plasma membrane where products are transfered. While in the sac the molecules is modified, packged, and its container is removed. May create lysosomes, secretory vecisles, or other functions.
+** Endosomes
+Membrane-bound vesicular and tublar structures that lie between the plasma membrane and the golgi apparatus.
+Certain types of vesicles that pinch off the plasma membrane travel to andfuse with endosomes.
+Can pinch off vesicles then move to other cell organells or returns to the plasma membrane.
+Endosomes are invol
