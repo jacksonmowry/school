@@ -1,0 +1,119 @@
+% Created 2022-02-02 Wed 10:57
+% Intended LaTeX compiler: pdflatex
+\documentclass[letterpaper, 11pt]{article}
+                      \usepackage{lmodern} % Ensures we have the right font
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage[table, xcdraw]{xcolor}
+\definecolor{bblue}{HTML}{0645AD}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{colorlinks, linkcolor=blue, urlcolor=bblue}
+\usepackage{titling}
+\setlength{\droptitle}{-6em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\usepackage[stretch=10]{microtype}
+\usepackage{hyphenat}
+\usepackage{ragged2e}
+\usepackage{subfig} % Subfigures (not needed in Org I think)
+\usepackage{hyperref} % Links
+\usepackage{listings} % Code highlighting
+\usepackage[top=1in, bottom=1.25in, left=1.55in, right=1.55in]{geometry}
+\renewcommand{\baselinestretch}{1.15}
+\usepackage[explicit]{titlesec}
+\pretitle{\begin{center}\fontsize{20pt}{20pt}\selectfont}
+\posttitle{\par\end{center}}
+\preauthor{\begin{center}\vspace{-6bp}\fontsize{14pt}{14pt}\selectfont}
+\postauthor{\par\end{center}\vspace{-25bp}}
+\predate{\begin{center}\fontsize{12pt}{12pt}\selectfont}
+\postdate{\par\end{center}\vspace{0em}}
+\titlespacing\section{0pt}{5pt}{5pt} % left margin, space before section header, space after section header
+\titlespacing\subsection{0pt}{5pt}{-2pt} % left margin, space before subsection header, space after subsection header
+\titlespacing\subsubsection{0pt}{5pt}{-2pt} % left margin, space before subsection header, space after subsection header
+\usepackage{enumitem}
+\setlist{itemsep=-2pt} % or \setlist{noitemsep} to leave space around whole list
+\usepackage{listings}
+\author{Jackson Mowry}
+\date{\textit{<2022-02-02 Wed>}}
+\title{Biohazard lab}
+\hypersetup{
+ pdfauthor={Jackson Mowry},
+ pdftitle={Biohazard lab},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.6)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\begin{enumerate}
+\item What is a biohazardous material?\\
+Any material that is possibly contaminated with blood, bodily fluids, or other dangerous substances, dangerous either to a person or their surroundings. Toxins, bacteria, and other hazards are also included.\\
+Search engine: Google\\
+key words: ``Biohazardous'' ``Material''\\
+site or sites: OSHA.gov and ucsd.edu\\
+evaluation: The UC San Diego site gave a very brief overview without specific examples, while the OSHA site went in to much greater detail about specific hazards. Overall I would say that the OSHA website was the better source of the two.\\
+
+\item list at least 2 diseased that can be transmitted by contact with:\\
+blood: Hepatitis B, HIV\\
+urine: Cytomegalovirus, Schistosomiasis\\
+saliva: Mononucleosis, Streptococcus\\
+seminal fluid: HIV, Chlamydia\\
+sweat: Group A Streptococcal Disease, Ebola\\
+
+Search engine: Google\\
+key words: ``Disease'' ``transmitted'' ``through'' ``blood, urine, saliva, seminal fluid, sweat''\\
+site or sites: CDC.gov, mayoclinic.org, psu.edu\\
+evaluation: From the sources above, the CDC was by far the best source. Coming from a .gov source is always best, because studies will often be linked right in the article. We can also put more trust into these sources knowing that they are very well researched, and reviewed.\\
+
+\item Which body fluid poses the greatest threat in a laboratory or clinical setting?\\
+Why?\\
+Blood poses the greatest threat in a laboratory or clinical setting.\\
+Blood can contain a large number of different biohazards, and infection via blood is very easy. A percutaneous infection is where the infection is passed through the skin via infected blood, so any blood to skin contact is dangerous. Contact with infected blood can lead to infection or disease. Small cuts and puncture wounds also increase the likelihood of infection.\\
+
+Search engine: DuckDuckGo\\
+key words: ``Body'' ``Fluid'' ``Greatest'' ``Threat'' ``Laboratory'' ``Clinical''\\
+site or sites: CDC.gov\\
+evaluation: Once again, use information from the CDC seems to be the best choice. All of their information if very well researched and documented.\\
+
+\item What is the proper disposal method of biohazardous material in a laboratory or clinical setting?\\
+Biohazard waste can often be disposed in a sealed and leak-proof biohazard bag. If a bag is likely to be punctured, a second bag or rigid container will need to be used.\\
+
+Search engine: DuckDuckGo\\
+key words: ``Proper'' ``Biohazard'' ``Disposal''\\
+site or sites: CDC.gov\\
+evaluation: The CDC along with OSHA put out regular updates to their guidelines for proper medical and biohazard waste disposal. This offers the most up to date and well researched information regarding the proper disposal of biohazard waste.\\
+
+\item Distinguish between the various types of hepatitis. How is each transmitted? What are the symptoms of each? Which is the most dangerous? Which is the most common?\\
+Hepatitis A: Non-chronic, transmitted via feces, can be prevented via immunization. Symptoms include, abdominal pain, fatigue, nausea, and jaundice due to it being a liver infection.\\
+Hepatitis B: Chronic, transmitted via blood or body fluids, blood to skin contact or other mucosal membrane, can be prevented via immunization or blood donor screening. All of the same above symptoms and including a lessened appetite.\\
+Hepatitis C: Chronic, transmitted via blood or body fluids, blood to skin contact or other mucosal membrane, can be prevented via blood donor screening. Many will show no symptoms but,  the people that do will appear to have liver diease.\\
+Hepatitis D: Chronic, transmitted via blood or body fluids after infection from Hepatitis B, blood to skin contact or other mucosal membrane, Hepatitis B immunization helps prevent Hepatitis D infection. Symptoms range from off-color urine, pain, loss of appetite, liver damage, or even death.\\
+Hepatitis E: Non-chronic, transmitted via feces, treat possibly infection water sources. Symptoms similar to Hepatitis A/B\\
+
+Search engine: DuckDuckGo\\
+key words: ``Hepatitis'' ``Facts''\\
+site or sites: CDC.gov\\
+evaluation: The CDC has individual pages for each variant of hepatitis, including symptoms, infection rate, and treatment/immunization options. This is a very good resource.\\
+
+\item What are universal precautions? Why should they be used? When should they be used?\\
+The universal precautions were a set of precautions introduced by the CDC to assist the public, and workforce in preventing the transmission of disease through blood, or other possibly infected bodily fluids. The precautions include wearing personal protective equipment, thorough handwashing, and other situation specific requirements (wearing masks when there is the possibility of an airborne pathogen). The precautions also include guidelines for the proper disposal and storage of biohazard materials.\\
+The universal precautions should be used in order to prevent the spread of disease within a clinical or laboratory setting. It is important to protect both yourself and those around you.\\
+The universal precautions should be used whenever close contact with potentially contaminated persons or materials is needed.\\
+
+Search engine: DuckDuckGo\\
+key words: ``Universal'' ``Precautions''\\
+site or sites: CDC.gov, pubmed.ncbi.nlm.gov\\
+evaluation: I used the pubmed site for an analysis of the originally CDC guidelines, along with viewing the CDC guidelines. This helped me to understand the reasoning behind the choices made by the CDC.\\
+
+\item What was the best internet site you found on biohazards? Why?\\
+The CDC was by far the best site I found on biohazards. Although we are mostly dealing with a laboratory setting, the CDC guidelines will still apply. Sanitary conditions and proper handling of biohazard material is important in both settings. All information on the CDC website is well documented and researched. They also continue to do research to improve guidelines and standards.\\
+
+\item Give an example of a site that you would not trust on this topic? Why?\\
+An example of a site I would not trust on this topic would be an internet fourm like Reddit. Although fourms can be a great place to work with many people all at once, the information posted is not reviewed in any way. Someone could post misinformation and it would be up to you or the community to disprove the post.
+\end{enumerate}
+\end{document}

@@ -1,0 +1,121 @@
+1. What is a biohazardous material?
+   Any material that is possibly contaminated with blood, bodily fuilds,
+   or other dangeous substances, dangerous either to a person or their
+   surroudings. Toxins, bacteria, and other hazards are also included.
+   Search engine: Google
+   key words: "Biohazardous" "Material"
+   site or sites: OSHA.gov and ucsd.edu
+   evaluation: The UC San Diego site gave a very brief overview without
+   specific examples, while the OSHA site went in to much greater detial
+   about specific hazards. Overall I would say the the OSHA website was
+   the better source of the two.
+
+2. list at least 2 diseased that can be transmitted by contact with:
+   blood: Hepatitis B, HIV
+   urine: Cytomegalovirus, Schistosomiasis
+   saliva: Mononucleosis, Streptococcus
+   seminal fluid: HIV, Chlamydia
+   sweat: Group A Streptococcal Disease, Ebola
+
+   Search engine: Google
+   key words: "Disease" "transmitted" "through" "blood, utine, saliva,
+   seminal fluid, sweat"
+   site or sites: CDC.gov, mayoclinic.org, psu.edu
+   evaluation: From the sources above the CDC was by far the best
+   source. Coming from a .gov source is always best, because studies
+   will often be linked right in the article. We can also put more trust
+   into these sources knowing that they are very well researched, and
+   reviewed.
+
+3. Which body fluid poses the greatest threat in a laboratory or
+   clinical setting?
+   Why?
+   Blood poses the greatest threat in a laboratory or clinical setting.
+   Blood can contain a large number of different biohazards, and
+   infection via blood is very easy. A precutaneous infection is where
+   the infection is passed through the skin via infected blood, so any
+   blood to skin contact is dangerous. Contact with infected blood can
+   lead to infection or disease. Small cuts and puncture wounds also
+   increase the likelihood of infection.
+
+   Search engine: DuckDuckGo
+   key words: "Body" "Fluid" "Greatest" "Threat" "Laboratory" "Clinical"
+   site or sites: CDC.gov
+   evaluation: Once again use information from the CDC seems to be the
+   best choice. All of their information if very well researched and
+   documented.
+
+4. What is the proper disposal method of biohazardous material in a
+   laboratory or clinical setting?
+   Biohazard waste can often be disposed in a sealed and leak-proof
+   biohazard bag. If a bag is likely to be punctured a second bag or
+   rigid container will need to be used.
+
+   Search engine: DuckDuckGo
+   key words: "Proper" "Biohazard" "Disposal"
+   site or sites: CDC.gov
+   evaluation: The CDC along with OSHA put out regular updates to their
+   guidlines for proper medical and biohazard wate disposal. Thos offers
+   the most up to date and well researched information reguarding the
+   proper disposal of biohazard waste.
+
+5. Distinguish between the various types of hepatitis. How is each
+   transmitted? What are the symptoms of each? Which is the most
+   dangerous? Which is the most common?
+   Hepatitis A: Non-chronic, transmitted via feces, can be prevented via
+   immunization. Symptoms include, abdominal pain, fatigue, nausea, and
+   jaundice due to it being a liver infection.
+   Hepatitis B: Chronic, transmitted via blood or body fluids, blood to
+   skin contact or other mucosal membrane, can be prevented via
+   imminization or blood donor screening. All of the same above symptoms
+   and including a lessened appetite.
+   Hepatitis C: Chronic, transmitted via blood or body fluids, blood to
+   skin contact or other mucosal membrane, can be prevented via blood
+   donor screening. Many will show no symptoms but the people that do
+   will appear to have liver diease.
+   Hepatitis D: Chronic, transmitted via blood or body fluids after
+   infection from Hepatitis B, blood to skin contact or other mucosal
+   membrane, Hepatitis B immunization helps prevent Hepatitis D
+   infection. Symptoms range from off-color urine, pain, loss of
+   appetite, liver damage, or even death.
+   Hepatitis E: Non-chronic, transmitted via feces, treat possibly
+   infection water sources. Symptoms similar to Hepatitis A/B
+
+   Search engine: DuckDuckGo
+   key words: "Hepatitis" "Facts"
+   site or sites: CDC.gov
+   evaluation: The cdc has individual pages for each varient of
+   hepatitis, inclusing symptoms, infection rate, and
+   treatment/immunization options. This is a very good resource.
+
+6. What are universal precautions? Why should they be used? When should
+   they be used?
+   The universal precautions were a set of precautions introduced by the
+   CDC to assist the public, and workforce in preventing the
+   transmission of disease through blood, or other possibly infected
+   bodily fluids. The precautions include wearing personal protective
+   equipment, thorough hand washing, and other situation specific
+   reqirements (wearing masks when there is the possibility of an
+   airborne pathogen). The precautions also include guidlines for the
+   proper disposal and storage of biohazard materials.
+   The universal precautions should be used in order to prevent the
+   spread of disease within a clinical or laboratory setting. It is
+   important to protect both yourself and those around you.
+   The universal precautions should be used whenever close contact with
+   potentially contaminated persons or materials is needed.
+
+   Search engine: DuckDuckGo
+   key words: "Universal" "Precautions"
+   site or sites: CDC.gov, pubmed.ncbi.nlm.gov
+   evaluation: I used the pubmed cite for an analysis of the originally
+   CDC guidlines, along with viewing the CDC guidlines. This helped me
+   to understand the reasoning behind the choices made by the CDC.
+
+7. What was the best internet site you found on biohazards? Why?
+The CDC was by far the best site I found on biohazards. Although we are
+mostly dealing with a laboratory setting, the CDC guidlines will still
+apply. Sanitary conditions and proper handeling of biohazard material is
+important in both settings. All information on the CDC website is well
+documented and researched. They also continue to do research to improve
+guidelines and standards.
+1. Give an example of a site that you would not trust on this topic? Why
