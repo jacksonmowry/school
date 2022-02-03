@@ -46,3 +46,41 @@
 '(* 4 5)
 =(* 4 5)
 #+end_src
+** Manipulating Lists
+In order to pull an element from a list we need to have a function to specify where we want to grab an element from.
+*** cons (construct)
+The function cons allows us to contruct a new list, taking in an element and a list and creating a new list. The element will be added to the front of the list. Any type can be added to a list, and lists can contain any mix of these types.
+#+begin_src <scheme>
+(cons 42 '(12 24))
+= (42 12 24)
+
+(cons '(a e) '(z (x (y))))
+= ((a e) z (x (y)))
+#+end_src
+*** car and cdr
+car and cdr are used to pull the elements from a list, car pulling the first element of a list, and cdr pulling the rest of a list. You cannot pull elements from an empty list.
+#+begin_src <scheme>
+(car '(a b c d e f g))
+= a
+
+(car '(a b (c (d (e))))
+= a
+
+(car '((a b) c d))
+= (a b)
+#+end_src
+In the last example the elements of the list are [0] = (a b), [1] = c, [2] = d. So calling the function car on a list of ((a b) c d)) returns the first element being (a b).
+The other function cdr will return the rest of a list without the first element. So a list of (a b d e f g) would return (b d e f g).
+#+begin_src <scheme>
+(cdr '(a b c d e f g))
+= (b c d e f g)
+
+(cdr '((1 2) 3 4))
+= (3 4)
+
+(cdr '(jackson))
+= ()
+#+end_src
+That last command may seem odd, as there is only one element in the list, so why does scheme return a list of nothing? We will return to this later.
+In order to take small subsections of a list or to grab an individual element burried deep in a list we can call the car and cdr functions multiple times within itself. For example we can use (car (cdr (cdr (cdr (cdr '(a b c d e f g)))))) to grab the 5th element in the list (e). Remember that we can look at scheme functions from the inside out to better understand how they process through the arguments given. So the first cdr removes 'a', then the next removes 'b', then 'c', then 'd', and finally we get to car which pulls the first element from a list being 'e'.
+Luckily these actions are performed so often that we have a shortcut for writing them out. To perform the above operation we can use caddddr.
