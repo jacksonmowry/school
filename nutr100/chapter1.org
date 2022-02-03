@@ -577,3 +577,118 @@ When fasting the body will call upon lipase to break down triglycerides into fat
 Essential fatty acids cannot be made by the body, they are: omerga-6 and omega-3.
 *** Omega-3 and Omega-6 Fatty Acids
 The 6 in omega-6 refers to the location of the C=C, omega-6 fatty acids make up cell membranes and help blood flow. Omega-3 fatty acids are also cell membranes, and in addition they help prevent inflammation, heart disease, and blood clots. Americans dont get enough omega-3.
+We can get omega-6 fatty acids from all sorts of plant based oils, while omega-3 most commonly come from soybean, and canola oils, walnuts, and flaxseed. Certain important omega-3 fatty acids are common in cold-water fish. Consumption of these fish has been linked to reduced risk of cardiovascular disease.
+** Whats Hot?
+*** Something fishy -- omega-3 fatty acids
+Studies have shown all sorts of positive health benefits associated with consumption of these essential fatty acids. However excessive supplementation can lead to thinnig of the blood, and lessen the ability fo the blood to clot when it needs to.
+An adult should consume 3g of omega-3 fatty acids, about 4 servings of fatty fish a week.
+| w/o heart disease    | Fish 2x/week       |
+| w/ heart disease     | 1g EPA/DHA a day   |
+| Lowering blood trigs | 2-4g EPA/DHA a day |
+**** Deficiency
+| Flaky, itchy skin     |
+| Diarrhea              |
+| Risk of infection     |
+| Stunted growth        |
+| Reduced wound healing |
+** Functions of Fatty Acids
+Energy storage, supply essential fats, absorbing vitamins, protecting organs, provide flavor, satiety, cell structure, precursor to steroid hormones
+*** Storage Form of Energy
+Fat stores in the average male can total up to around 100000 calories, compared to 1500 on glycogen.
+*** Supply of Essential Fatty Acids
+This gives the body the fats it cannot produce on its own in the necessary quantities. They are converted into eicosanoids, which have powerful physiologiacal effects including relaxing blood vessels, and promoting clotting.
+*** Absorption and Transport of Fat-Soluble Vitamins
+Vitamins A, D, E, and K
+*** Organ Insulation and Protection
+Fat surrounds our most important organs, and without it they would not recieve proper insulation and protection. Females have more fat then males. When someone is very lean their body will grow excess hair to try and make up for the lack of insulation (lanugo).
+*** Flavor and Satiety of Food
+Fat helps mouthfeel (texture) and the length of a flavors presence. Fats contribute to longer feelings of satiety due to their slower digestion, this also helps flavors stick around for longer. Fat can help those that are dieting to keep them feeling full longer. It will help slow gastric emptying which keeps someone feeling full for longer.
+*** Cell Membrane Structure
+Phospholipids make up cell membranes, and membranes of organells. They serve as a barier and allow certain compounds to enter/exit.
+*** Precursor to Steroid Hormones
+Sex hormones, aldosterone, and Vit D are all made from cholesterol.
+** Recommendation for Dietary Fats
+Adults 20% not more than 35%, children 30-35% no less than 30. Under 2 y/o should not have fats limited.
+Try to choose unsaturated fats, limit saturated fat intake to 10% of daily calories.
+It is important to look at nutrition facts to see "invisible fats" as opposed to the fats we can see on meats.
+** Risks and Prevention of Heart Disease
+*** Heart Disease
+Atherosclerosis is a disease that affects both the heart and blood vessels. Plaque build up limits the elaticity of arteries leading to restricted blood flow. High LDL and low HDL are a risk factor along with: smoking, hypertension, high fat intake, family history, diabetes, high homocysteine levels, obesity, physical inactivity, and gender (male higher risk).
+To reduce risk try to consume more unsaturated fats and less saturated fats. Also look to consumer more fiber.
+*** Cholesterol
+Hypercholesterolemia (high serum cholesterol), increases ones risk of cardiovascular disease. In some individuals their liver continues to produce cholesterol even when dietary consuption of cholesterol is high, leading to an excess amount of cholesterol in the blood. Try to consume foods lower in cholesterol and saturated fats to lower these levels. Although reducing saturated fat intake is more important than reducing dietary cholesterol. Consuming soy protien and fiber is also recommended as a method for reducing serum cholesterol.
+*** Saturated Fats and Trans Fatty Acids
+Saturated fat consumption leads to elevated LDL, increasing the risk of heart disease. Trans fats (now banned) raise LDL and lower HDL, now banned for the increased risk of heart disease.
+**** Types of Heart Disease
+| Disease            | Description                                  |
+|--------------------+----------------------------------------------|
+| Atherosclerosis    | Deposits of fatty substances in arteries     |
+| Ischemia           | Heart blood flow restricted                  |
+| Angina pectoris    | Pain in the pectoris from lack of blood flow |
+| Myocardial Infarct | Lack of blood flow destroys the heart        |
+| Stroke             | Brain blood flow interrupted                 |
+*** Risk Factors for Heart Disease
+Obesiety, blood cholesterol at higher than 200mg/dl. The AHA recommendeds a HDL:Total Cholesterol ratio of 3.5:1 and no higher than 5:1.
+| Total Cholesterol | Category           |
+|-------------------+--------------------|
+| < 200 mg/dl       | Desirable          |
+| 200-239           | Borderline High    |
+| > 240             | Highl              |
+|                   |                    |
+| LDL (Bad) Level   | Category           |
+|-------------------+--------------------|
+| < 100             | Optimal            |
+| 100-129           | Near/Above Optimal |
+| 130-159           | Borderline High    |
+| 160-189           | High               |
+| > 190             | Very High          |
+|                   |                    |
+| HDL (Good) Level  | Category           |
+|-------------------+--------------------|
+| < 40              | Risk for HD        |
+| 40-59             | Higher = Better    |
+| > 60              | Protetive from HD  |
+Additional risk factors:
+| Family History |
+| High BP        |
+| High Trigs     |
+| Smoking        |
+| Diabetes       |
+| Obesity        |
+| Inactivity     |
+*** Signs of a Heart Attack
+Symptoms can present differently in men a women.
+Statin medication help lower LDL, and subsequently eliminate cholesterol from the body. Additional medication can be used to reduce trigs.
+Stints or bypass can also help improve blood flow to the heart.
+*** How Can YOU Decrease Your Risk of Heart Disease?
+| Control BP                    |
+| Keep Cholestrol and Trigs low |
+| Maintain a healthy weight     |
+| Eat healthy                   |
+| Regular exercise              |
+| Limit Alcohol                 |
+| Dont Smoke                    |
+| Manage Stress                 |
+| Manage Diabetes               |
+| Sleep enough                  |
+**** How to lower LDL and Trigs, while raising HDL?
+Reduce Sat fat and cholesterol intake, increase unsaturated fats, increase fiber.
+Increase antioxidant intake, prevent atherosclerosis by reducing oxidation to LDL molecules which would lead to plaque.
+Trigs are the most responsive to diet changes:
+| Avoid overeating   |
+| Limit alcohol      |
+| Limit added sugars |
+| Included omega-3   |
+How to raide HDL:
+| Physical Activity (45 min) |
+| Stop Smoking               |
+| Eat small meals            |
+| Eat less fat               |
+| Moderate alcohol intake    |
+* Chapter 7: What is Protein?
+** Introduction
+Proteins are the only macronutrient to contain nitrogen, and they can mostly be synthesized by the body. They may act as enzymes, structural components, or the structure causing muscle contraction. Even the bloodstream contains proteins.
+** Proteins
+Protiens come from both animal and plant sources. Around 70% of Americas protein intake comes from animals, as opposed to other places in the world where only 35% of protein intake comes from animals.
+Protein can be found in almost every food group.
+Beef, poultry, milk, white bread, and cheese make up the majority of Americas protein intake. White bread does not contain much protein but we consume so much of it that it makes up a large part of our total protein intake.

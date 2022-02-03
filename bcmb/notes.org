@@ -314,8 +314,8 @@ Surrounding the nucleus is a barrier known as a nuclear envelope, composed 2 meb
 Nucleolus: densely staining filamentous region without a membrane prominent in the nucleus. This is the site of ribosome subnit assembly. Otherwise known where ribosomes are made, rRNA and proteins are combines. DNA is coverted to RNA which then folds in on itself.
 ** Ribosomes
 Where proteins are created within a cell, comprised of protein and made using RNA instructions. On ribosomes protein molecules are made from amino acids, using genetic information from mRNA from the DNA in the nucleus.
-Small subunit is called 30S, a unit of time 10^-13 seconds. Time it takes for a subunit to reach a no movement in a centrifuge.
-50S is the large subunit,
+Small subunit is called 20S, a unit of time 10^-13 seconds. Time it takes for a subunit to reach a no movement in a centrifuge.
+60S is the large subunit,
 Full ribosome is 80s, within the cytoplasm and attached to somethig in the cell.
 2 kinds of ribosomes, free, bound. Free are in cytoplasm making protien. Bound are bound to the ER making a special protein.
 ** Endoplasmic Reticulum
@@ -330,4 +330,58 @@ The side that faces the ER serves as the site of entry, the other side faces the
 Membrane-bound vesicular and tublar structures that lie between the plasma membrane and the golgi apparatus.
 Certain types of vesicles that pinch off the plasma membrane travel to andfuse with endosomes.
 Can pinch off vesicles then move to other cell organells or returns to the plasma membrane.
-Endosomes are invol
+Endosomes are involved in sorting, modifying, and directing vesicular traffic in cells.
+** Mitochondira
+These organells perform the job of harvesting energy from chemical bonds to create adenosine triphosphate (ATP).
+Cellular respiration is the process in which mitochondira form this energy, by consuming oxygen and producing CO2, heat, and water.
+Mitochondria have a smooth outer membrane, and a folded inner membrane. This inner membrane is folded into sheets (tubules)known as cristae, which go in to the mictochondria, the inside being called the matrix. Their shape resembles a kidney bean shape with a smooth outer surface and the folded ridge like structure on the inside.
+Active cells can contain thousands of mitochondria, less active cells will contain less.
+The powerhouse of the cell, most of the ATP that the cell uses is produces here (2 million per second). Electrons are pulled from the H of nutrients. The outer memebrane is very porus, allowing difussion though itself. The inner membrane ins highyly folded (cristae), to increase surface area. Amount of ATP generated is based on surface area. Where the folds go in a proteins complex turns the cristae into an individual energy cell. A battery of sorts, isolating that one cell so that it being dead does not effect others.
+Body temperature (37c), within a single cell we have a temperature gradient. Roughly 37, but inside the mitochondira it is 50c (very hot, because it is busy).
+*** Unique to Mitochondira
+Double membrane, has its own DNA (circular chromosomes/chromatin), has its own dedicated ribosomes (70s), mitochondira was once a bacteria (trace back using DNA sequencing), similar to a gram-negative bacteria (intra-cellular pathogen). Since this bacteria can generate ATP, euchariotic cells kept it around instead of eating it to produce more energy. They became symbiotic becuase the cell got more ATP, and the mitochondira got a safe place to stay, and a steady supply of food.
+** Lysosomes
+Spherical or oval organelles surrounded by a single memebrane. Cells contain hundreds of lysosomes, each containing acidic fluid and digestive enzymes. Break down bacteria and debris from dead cells. Also break down organelles that have been damaged.
+** Peroxisomes
+Dense oval bodies with a single membrane. Contain oxygen which helps remove hydrogen from organic molecules (lipds, alcohols, and toxins). Can make and destroy H2O2. Also break down fatty acids, for generating ATP.
+** Cytoskeleton
+Filament like netowrk associated with processes that maintain and change cell shape and produce cell movements. Some can move and change while some stay still forever. The dynamic ones are micofilimatens and microtubules. Intermediate filaments will stay still.
+
+*** Actin Filaments (microfilaments)
+Composed of momomers of the protein G-actin (globular actin). It assembles into a polymer of two chains, known as F-actin (filamentous).
+They make up a major portion of the cytoskeleton. Functions include: determining cell shape, abiloty for the cell to move, cell division, and muscle contracting.
+*** Intermediate Filaments
+Scaffolding on which everything is placed, cell outline, nuclues locating. Composed of different proteins, to be very strong yet flexible. Provide strength to the cells.
+*** Microtubules
+Interstate system, quite large. Will lie right outside the nucelus the "hub". Centrosome is this hub, composed of two centrioles, composed of nine sets of fused microtubules. Used in mitosis, we need a way to physically seperate chromosomes, the centrosomes acts as anchors for the tug of war seperating of chromosomes. Composed of protein called tubulin. The most rigid part of the strucutre, present in neurons where they provide framework for the cylindrical shape.
+*** Cilia
+Hair-like extension on the suface of cells. Can generate movement or current of the cell. Respritory movements to trap or move pathogens.
+** Proteins
+Involved in all physiological processes, from cell signalling to tissue remodeling to organ function. DNA > RNA > Protein (DNA is replicated, Transcription makes RNA, translation goes from RNA to protein (nucleic acid to amino acid using ribosomes)). Called the central dogma of molecular biology. RNA will be destoryed but the proteins will live on.
+*** Sequencing Genetic Code
+How do we translate nucleic acids to amino acids. By using three letter sequences we create the genetic code. 3 nucletides are called the codon, which is then translated to an amino acid. Some sequences can be punctuation,  61 equal amino acids, the other 3 are stop codons (signaling the end of a sequenece). 1-6 codons can be coded for a single amino acid, they are not random, they always do the same thing.
+** DNA Codes
+The 64 triples are called the codons, with three of them being the end points. The start codons can also be translated into a amino acid.
+** Transcription
+AUG starts, UGA is a possible ending.
+** mRNA Processing
+mRNA is messenger RNA, it goes out into the warzone just after being created. It is single stranded and it is not very strong, and it needs help getting out of the nucleus. So mRNA processing is used to make the message correct, and get it out of the nucleus. Turning it into mature rRNA.
+Apply a cap (battle armor) - modified G nucletide
+Tail - Poly(A) tail (gotta look fancy), adding lots of a to the end of a sequencd (150-600)
+Splicing - Remove introns (removing the non-coding DNA sequences), We dont need all of the message, because some of it is useless. So we remove them so the message is clean.
+What is left over is called the Exons, sequences that encode for amino acids.
+Splceosoes form the mature mRNA molecules that passed through the nuclear pores to the cytosol. For certain types of tissue some exons may be removed, and they may stay in other tissue types. We always take our the interons, but some jobs may require cetain exons to be removed.
+*** Tropomyosin
+In muscle you take out 2 4
+In smooth mucles you take out  12 13
+** tRNA
+Two business ends, one does nucleic acid language, the other end does amino acid language. They bring amino acids to the ribosomes for protein synthesis. Anto-codon deals with nucleic acids from mRNA. tRNA have secondary structures allowing them to pair with themselves. They also have a covalent bond between themselves and the amino acid they bring.
+Thr tRNA doesnt move in and out, the ribosomes slides along the mRNA to transcribe. There is no amino acid for the stop codon which means there is nothin further to add, so the ribosome slides over and the polypeptide chain is released. Several ribosomes can simultaneously move along a strand of mRNA, producing the same protein in different stages of assembly. As they move along the polypeptide chain gets longer and longer. Called poly ribosomes.
+Enzymes presented in the cells cytoplasm called aninoacyl-tRA synthetase enymes are responsible for joining amino acids to the end of tRNA. Each tRNA anti-codon can only bind o one specific amino acid.
+*** How does the cell know what to make?
+A way to regulated what is being made, and a way to know what they are.
+A signal from outside the cell will carry instructions telling it what to produce via a *promoter*. A promoter is a DNA sequence where the enzyme necessary for transcription  is bound. RNA polymerase attaches to this promoter, you also need the DNA to be bent around so that the other binding site on the DNA for transcription can reach, then RNA polymerase races off transcribing the DNA to RNA. The interon is folded in on itself, cut off, and then the exons are reattached.
+*** Formation of a Polypeptide
+The sequence of the mRNA determines the sequences of the formed polypeptide (amino acids held together by peptide bonds). tRNA and mRNA first bond, the first amino acid detaches fom its tRNA and bonds to the second amino acid, this dipeptide is attached to the second tRNA. This will continue until a stop codon is reached.
+While this peptide chain is being formed it starts to experince both secondary and tertiary interactions (twisitng and folding respectivly). This interaction may not occur properly producing toxic complxes, chaperone proteins are there to help prevent this. They help protiens fold corectly as they exit the riosome, they also help different polypeptide chains come together in the proper way to form quaternary structures.
+** Mutations
