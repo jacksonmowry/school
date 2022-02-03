@@ -570,3 +570,10 @@ Premenopausal women have high HDL while post menopausal women have low HDL leadi
 ** Lipid Metabolism
 Fatty acids can either be used for fuel or tuned into triglycerides and stored for later. In muscle they are used to make ATP, and the remaining componets are stored as fat.
 *** Feasting
+When excess intake occurs triglycerides are stored in adipose tissue. Adipose tissue has the enzyme lipoprotein lipase on its surface, working to gather triglycerides from lipoproteins. When this excess intake comes from fats it comes directly here via chylomicrons, otherwise protien and carbohydrates must first stop at the liver to be converted into fatty acids, then tryglycerides.
+*** Fasting
+When fasting the body will call upon lipase to break down triglycerides into fatty acids and glycerol, which can then be used for energy via ATP.
+** Essential Fatty Acids
+Essential fatty acids cannot be made by the body, they are: omerga-6 and omega-3.
+*** Omega-3 and Omega-6 Fatty Acids
+The 6 in omega-6 refers to the location of the C=C, omega-6 fatty acids make up cell membranes and help blood flow. Omega-3 fatty acids are also cell membranes, and in addition they help prevent inflammation, heart disease, and blood clots. Americans dont get enough omega-3.
