@@ -1,0 +1,40 @@
+#+TITLE: 2.5
+
+
+* Graphical viewpoint
+not continuous at x=1 because f(5) DNE
+not continuous at x=5 because the limit is different approaching from the left and right
+continuous at x=7, curved continuous line
+* Example 1
+At what x-values is the function g(x) graphed below discontinuous? Explain each point
+x=(1, 3, 5)
+For x=1 we approach a different limit from each side
+For x=3 f(x) != lim(x>3)
+For x=5 we dont have a value for g(5)
+** Jump, infinite, and removable discontinuity
+f(x) has a jump discontinunity x = a means: the one sided limit for both sides are finite but not equal
+f(x) has infinite discontinunity at x = a means: the function has a vertical asymptote at x = a
+f(x) has a removable discontinuity at x=a means: limit of f(x) is defined by limit of f(x) != to f(x), by moving one point we can fix the discontinuity
+** One-sided continuity
+f(x) is left-continuous at x=a means: the left limit is equal to the Y value,  lim(x>a-) = f(a)
+f(x) is right-continuous at x=a means: the right limit is equal to the Y valur, lim(x>a+) = f(a)
+** In Example 1, find a such that g(x)is right-continuous but not left-continuous at x=a.
+x=1 b/c lim(x>1+) = g(1)
+** Does g(x) have jump, removable, or infinite discontinuity at x=3?
+x=3 is removable because the limit as x>3 is defined, and g(3) is defined, but are not equal.
+** What Functions are continuous on their domains
+| Polynomials  | x+3                |
+| Rational     | (xx - x - 2)/(x-2) |
+| Root         | sqrt(x)            |
+| Exponential  | 3^x                |
+| Log          | log(x)             |
+| Trig         | sin(x)             |
+| Inverse Trig | sin^-1 (x)         |
+As well as combinaions of these functions, differences, poducts, quotients, and composites.
+The function that might not be continuous on its domain is the *piece-wise* function.
+* Example 2
+a.
+    (-inf, 2)U(2, inf)
+b.
+    (-inf, 9/5)
+c.
