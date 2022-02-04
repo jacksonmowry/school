@@ -542,7 +542,7 @@ Phospholipids are also used in the synthesis of acetylcholine.
 Sterols and Cholesterol have a ring like structure as opposed to the chains from above. Many hormones in the body are made from cholesterol, and it is also used in making bile (for food processing in our GI tract).
 Although cholesterol is a necessary part of bodily function our livers can actually make all that we need. Saturated fat consumption plays a much larger role in serum cholsterol than dietary cholsterol consumption.
 ** Hydrogenated Fats
-Since saturated fats have some hydrogens missing they are susceptivle to oxidation, where they can combine with oxygen. This leads to a oil going rancid. For some oils they will be partially hydrogenated in order to increase product shelf life.
+Since saturated fats have some hydrogens missing they are susceptible to oxidation, where they can combine with oxygen. This leads to a oil going rancid. For some oils they will be partially hydrogenated in order to increase product shelf life.
 The hydrogenatin of oils may lead to the production of trans fatty acids, which is associated with heart disease.
 The consumption of trans fats can lead to increasing LDL and lowering HDL.
 Trans fats are now banned from being added to food. It is estimated that half of the trans fats Americans were consuming were from partially hydrogenated oils. Some foods can naturally contain trans fats, these are still allowed.
@@ -692,3 +692,272 @@ Proteins are the only macronutrient to contain nitrogen, and they can mostly be 
 Protiens come from both animal and plant sources. Around 70% of Americas protein intake comes from animals, as opposed to other places in the world where only 35% of protein intake comes from animals.
 Protein can be found in almost every food group.
 Beef, poultry, milk, white bread, and cheese make up the majority of Americas protein intake. White bread does not contain much protein but we consume so much of it that it makes up a large part of our total protein intake.
+Unlike carbohydrates and lipids, proteins contain nitrogen, which gives protein its valuable properties. Structure of cells, organs, tissues, regulating nutrient processing, transportation of molecules, and the production of energy.
+Like the glucose chains of complex carbohydrates, and the fatty acid chains of lipids, proteins are made up of chains of amino acids. These 20 building blocks make up all proteins, each with a different structure.
+The two types of amino acids are essential and nonessential. The essential amino acids must be consumed in the diet because the body cannot produce enough, while the nonessential amino acids can be produced in the body through a process known as transamination. As long as the body has the necessary building blocks like nitrogen, carbon, hydrogen, and oxygen.
+There are also conditionally essential amino acids, which are required in certain circumstances, such as disease, or when the essential acids cannot be found in great enough quantity to synthsize the nonessential amino acids.
+| Essential     | Nonessential  |
+|---------------+---------------|
+| Histidine     | Alanine       |
+| Isoleucine    | Arginine      |
+| Leucine       | Asparagine    |
+| Lysine        | Aspartic acid |
+| Methionine    | Cysteine      |
+| Phenylalanine | Glutamic Acid |
+| Threonine     | Glytamine     |
+| Tryptophan    | Glycine       |
+| Valine        | Proline       |
+|               | Serine        |
+|               | Tyrosine      |
+** From Amino Acids to Proteins
+Proteins are made of amino acids, and can be broken down and reformed by the body as needed.
+When amino acids are linked they form a peptide bond, creating a dipeptide, and eventually a polypeptide (aka protein) is formed.
+The order and shape of a protein detemines its function within the body.
+While the process of protein production is the same within all cells, each cell will only produce the proteins it needs to function. This process starts from the DNA which contains the "blueprint" for how each protein needs to be formed. Cells will produce more or less of these proteins depending on conditions within the body telling them when and how much or each protein to produce.
+*** What happens if the order of an amino acid gets messed up?
+Even just one amino acid being missing can cause a dramatic change to the function of a protein. Take for example *sickle cell anemia* in which an amino acid is missing from the protin hemoglobin. This causes the shape of the cell to change drastically from a disk to a sickle, causing blockages in the blood vessels, and eventually leading to tissue damage from reduced blood flow.
+*** Denaturation
+Denaturation is the process in which a protein's structure (and therefore its function) is changed by heat, acid, enzymes, agitation, or alcohol. Cooking an egg turns it from a liquid mess to a solid shape. Stomach acid performs a very similar role as it denatures proteins we consume.
+Denaturing a protein increases its surface area allowing for more interaction with digestive enzymes, helping digestion. Stomach acid can denature the proteins of harmful bacteria essentially acting as a second safeguard from infection (the first being cooking of foods).
+** Food Sources of Protein
+*** Protein Quality
+*Complete proteins* contain all essential amino acids, and are easily absorbed (90%). These are normaly animal proteins, while plant proteins may not contain all essential amino acids or have poor absorption (60%).
+*Incomplete proteins* do not contain all essential amino acids needed by the body. These may be beans, legumes, grains, and vegetables.
+When a person is not getting the adequate levels of essential amino acids, their body will cease to synthesize any proteins. This can occur when just one essential amino acid is missing, this amino acid being named the "limiting protein".
+When choosing what foods to eat for protein content, it is important to consider other sources of protein out side of animal products. The term *complementary proteins* refers to two or more incomplete proteins that when eaten together make a complete protein.
+| Food       | Limited Amino Acid | Complement          |
+|------------+--------------------+---------------------|
+| Beans      | Methionine         | Grains, nuts, seeds |
+| Grains     | Lysine, threinine  | Legumes             |
+| Nuts/seeds | Lysine             | Legumes             |
+| Vegetables | Methionine         | Grains, nuts, seeds |
+| Corn       | Tryptophan, lysine | Legumes             |
+Since proteins will hang around in the body for some time, it is best to consume these complementary proteins within the same day.
+These plant sources of protein are much higher in fiber, lower in saturated fat, have antioxidant properties, beneficial mineral content.
+*** Protein Digestion and Absorption
+Denaturating by HCl allows the enzyme pepsin to digest the peptide bonds of the proteins. Once in the small intestine protease enzymes work to break down polypeptides into short amino acid chains. Which are then absorbed by mucosal cells.
+*** Protein Turnover
+*Protein Turnover* refers to the constant building (*protein synthesis*) and destruction (*protein breakdown*) of prteins withing our cells. The body needs to process in order to grow, repair, and function at ideal rates.
+The rates of breakdown and synthesis in the body are determined by both body signals, and the amount of protein that is consumed. For example if enough protein is consumed the body is able to properly synthesize muscle, otherwise muscle will be broken down.
+All essential amino acids must be present in order for protein synthesis to occur, if an amino acid is not available the body may break down muscle to obtain it.
+Protein has no storage form within the body, so amino acids need to be regularly consumed to keep the *amino acid pool* topped up. This amino acid pool refers to all free amino acids that are in body fluids. They are waiting to be used for making other proteins, and by the end of the day if they are not used they will either be converted to fat, eliminated as waste, or formed into other nitrogen containing compounds. This waste may be urea in the liver, excreted by the kidneys.
+** Protein's Function in the Body
+| Hormones          |
+| Growth            |
+| Maintenance       |
+| Repair            |
+| Body Structure    |
+| Blood             |
+| Fluid Balance     |
+| Transport         |
+| Energy            |
+| Acid Base Balance |
+| Immune Function   |
+| Enzymes           |
+*** Growth, Maintenance, and Repair
+The body is contantly in a dynamic state, so consistent protein consumption is necessary to all the turnover processes to occur. The essential amino acids need to be consumed in order to allowt this to occur. Blood cells live 3-4 months, skin days, intestine 3 days.
+*** Body Structure
+Protein allows blood to clot, forms ligaments, and forms tendons. *Collagen* is the most abundent protein in the body making up: tendons, bones, skin, teeth, and blood vessels.
+*** Fluid Balance
+*Albumin* circulating in the blood helps keep a balance of fluids in cells and outside of cells. When protein intake is insufficient fluids can easily enter the cells leading to *edema*.
+*** Acid-Base Balance
+Proteins act as a pH buffer, to neutralize the pH.
+*** Immune Function
+*Antigens* are foreign substances that threaten the body's health. *Antibodies* are the proteins that the immune system produces as a defense against these antigens. The musuc in our respiratory systems and intetines are made up of amino acids which is contantly secreted to trap bacteria before it can ever enter the body. Without proper protein intake the immune system is weaker and will not be able to keep you healthy.
+*** Enzymes
+*Enzymes* are proteins that speed up chemical reactions. They consist of 100-1000 amino acids and help all throughout the body. In cetrain genetic abnormalitites they may not be produced. This is known as an inborn error of metabolism. One example is *hemophilia* in which excessive bleeding and bruising can occur from minor injuries. In these people the genetic code for clotting does not exist. Injecting the body with clotting aids can help these people.
+*** Hormones
+*Hormones* are the bodies messenger. Some are lipids and some are proteins.
+*** Transport
+Proteins that transport substances across cell walls act as pumps. Another transport protein within the cell is the sodium-potassium pump. They help maintain the balance of sodium and potassium on the inside and outside of a cell. Proteins can also transport nutrients in the bloodstream. Albumin makes up 60% of the bodies plasma and it is responsible for the transport of drugs and thyroid hormones, plus is carries fatty acids from adipose tissue to muscle cells for use as energy. Proteins all fat and water to mix.
+*** Energy
+Through gluconeogenesis the body can use protein as an energy source, but during this process protein cannot performs its regular functions as listed above. It is not the best energy source for the body.
+*** Recommendations for Protein Intake
+0.8g per kilogram of body weight. Around 10% of caloies for the day. If you are injuried or an athlete you may need more.
+*** Myths and Legends
+More protein is required for athletes, notably when beginning a new exericise program.
+Athletes may want to consume 1.2-1.4g of protein per kilogram of body weight, or 1.6-1.7g for strength athletes. There is no need to go crazy with protein consumption.
+** Protein Balance
+When amino acids are broken down nitrogen is released, and this nitrogen can be measured thorugh the protein we eat, or the nitrogen we excrete. Most of the time this in and out is balanced, but during times of growth, recovery, pregnancy, and muscle growth the body is in a *positive nitrogen balance*, when intake is greater than excretion. In the opposite situation you would have *negative nitrogen balance*, this may be due to excess breakdown due to AIDS, cancer, starvation, or restictive diets. Most people are balanced, with US consuming too much protein.
+*** Too Little Protein
+If someone is protein deficient it is likely that protein is not the only nutrient they are deficient in. *Protein energy malnutrition (PEM)* occurs when someone is not gettng enough protein, calories, or both. It is rare but may occur when a person is wasting, or malnourished. PEM is the most lethal form of malnutrition.
+**** Marasmus and Kwashiorkor
+People with *Marasmus* will be in an emaciated state, or have a skeletal apperance due to inadequate intake of *protein /and/ calories*. Can occur with improper nutrient absorption, or self-starvation.
+*Kwashiorkor* can affect children being weaned from breastfeeding. The transition from high protein breast milk to low protein cereal will cause edema in the belly area. Essentially under consuming of protein.
+*** Too Much Protein
+Americans often consume too much protein without the need for the high consumption. What are the consequences?
+High-protein diets may lack the necessary vegetables for fiber. They will also often be high in saturated fats. Generally animal based diets will be low in fiber, phytochemicals, vitamins, and minerals.
+High-protein diets may lead to an increased risk for cancer and heart disease. Notably colon, prostate, breast, and pancreatic cancers. If calcium is underconsumed bone loss can also occur.
+High-protein diets may also cause additional stress to the kidneys, which may lead to kidney disease. This is not a concern for the average healthy person, but for infants if their is not enough water intake there may be additional stress on the kidneys. 2g/kg seems to be the upper limt for benefits.
+** Vegetatianism
+*** Why Do People Choose to Become Vegetarians?
+Sometimes meat is cost prohibitive, and it is restricted in some religions.
+*** Different Types of Vegetarian Diets
+| Vegans                      | Omit all animal products         |
+| Lacto-vegetarians           | Include dairy products           |
+| Lacto-ovo-vegetarians       | Incluse eggs and dairy           |
+| Lacto-ovo-pesce vegetarians | Include eggs, dairy, and seafood |
+| Semi-vegetarians            | Sometimes eat meat/seafood |
+*** Health Benefits of a Vegetarian Diet
+Lower risk of heart disease, prevention of some cancers, lower BMI, less likely to be obese. Eating a variety of plant foods is recommended for all the various micronutrient benefits associated with their consumption.
+*** Health Challenges for Vegetarians
+Nutrient imbalance or deficiency. Low iron, zinc, calcium, protein, B6, B12.
+* Chapter 8: What is Alcohol?
+** Introduction
+Alcohol is consumed for socializing, celebrations, relaxation, escape, or as port of cultural and religious practices. Moderate consumption can have health benefits, but only 50% of people consume alcohol in a moderate amount.
+** What is Alcohol?
+Also known as ethanol, alcohol is a intoxicating ingredient in beer, wine, and liquor. It is not a nutrient, and is not required for health. It does provide energy at 7cal/gram, and has properties that allow it to dissolve lipids, and is made through carbohydrate fermentation. Yeast breaksdown sugars into alcohol, CO2, and water.
+*Alcohol Proof* is used to label beverages by alcohol content. Proof is twice the percentage of alcohol by volume, 100-proof whiskey is 50% alcohol by volume. Beer is 4-5%, wine is 7-15%, and spirits are 40-50%.
+** Metabolism of Alcohol
+No digestion is required, instead alcohol can be directly absorbed into the bloodstream through diffusion. 1-3% of alcohol is peed out, and 1-5% evaporates via breath. Everything else must go through the liver. Only 1/5 of the alcohol is absorbed through the stomach, with the rest occuring in the small intestine. The enzymes *alcohol dehydrogenase* and *acetaldehyde dehydrogenase* are responsible for the metabolism of alcohol.
+Alcohol has no storage form in the body, thus the body needs to process it right away, first it is converted to acetaldehyde (via alcohol dehydrogenase) and then acetate (via acetaldehyde dehydrogenase). After being spread through the bloodstream it can be used as energy in the liver and other places in the body. In excess amounts alcohol will destroy the lipid membrane of cells. Additionally all the excess energy in the liver will be converted to fat leading to fatty liver.
+** Factors that Affect Intoxication
+*** Gender
+Women will experience a faster rise in BAC due to: lower body water (leading to more alcohol per unit of body water), less muscle, and more fat. They also metabolize alcohol slower due to having less alcohol dehydrogenase. The effects of alcohol can also hang around longer in women.
+*** Race/Ethnicity
+Asians experience flushing, possibly due to a genetic mutation surrounding acetaldehyde dehydrogenase.
+*** Body Size
+Smaller people will feel effects fast, and will metabolize alcohol slower.
+*** Amount of lacohol and other foods consumed (before or during alcohol intake)
+Some foods may biffer the absorption or metabolism of alcohol.
+*** Sleep
+Sleep can impact metabolism, affecting alcohol metabolism.
+*** Medications
+Alcohol can lessen the effectiveness of certain medication, or may cause issues.
+*** Other Factors
+Genetics, organ efficiency, or other issues will influence alcohol metabolism. It has calories but is not a good energy source.
+** Metabolic Effects of Excessive Alcohol
+Can have detrimental effects of both organs and body systems. These include the brain, liver, cardiovascular system, digestive system, and immune system. Chronic alcoholism will lead to nutrient deficiency due to the lack of actual nutrients present in alcohol. May also cause vomiting which removes nutrients from the body.
+Excess urination can also occur from alcohol consumption, which will lead to a drop in mineral content of the body, leading to typical symptoms like cramps and worse.
+*Wernicke-Korsakoff* syndrome is a brain disorder caused by lack of B-vitamin thiamin, common among alcoholics. Other vitamins such as A, D, E, K, C, B (thiamin, niacin, folate, B6, B12) will also have decreased levels in the body due to excess alcohol consumption. Minerals such as calcium, phosphorus, potassium, magnesium, zinc, and iron may also have their levels in the body lessened.
+Digestive organs can also be damaged from alcohol consumption. The GI mucus lining will be damaged due to excess stomach acid and histamine. This may trigger heartburn and ulcers. Alcohol can also lessen digestive enzyme secretion, along with the absorption of nutrients.
+Due to its effects on the liver bile production will be lessened, impacting the bodies ability to digest fats, and the fat-soluble vitamins. With all the excess energy in the body fat synthesis will be increased.
+*Alcoholic Fatty Liver Disease* is caused by excess alcohol use. The metabolism/breakdown of alcohol primarially occurs in the liver, which can damage the liver, promote inflammation, and weaken the body's natural defenses. This condition can be reversed with abstinence from alcohol. With continued consumption comes *alcoholic hepatitis* which may include symptoms of pain, diarrhea, nausea, and vomiting. Lastly *cirrhosis* can occur where accumulation of fat causes hepatocytes (liver cells) to burst and die. They are replaced by scar tissue that cannot function like the liver tissue it is replacing, which will lead to a non functioning liver.
+** Defining Moderate Intake
+*** So how much is too much?
+Consumption is linked to car crashes, violence, sexual risk behaviors, high BP, and various cancers. These risks can occur at very low levels of alcohol consumption. This misuse of alcohol is most common among young adults, and they are at the most risk for alcohol's acute effects. Starting at a young age can also form a pattern of drinking that leads to potential future alcoholism.
+Binge drinking is defined as having a patern of you BAC over 0.08g/dl or above. >5 drinks in men, >4 drinks in women, in a 2 hour period. Most binge drinkers do not have a severe alcohol use disorder.
+| Age Range | Binge Percentage |
+|       >18 |              17% |
+|     18-24 |               25 |
+|     25-34 |               26 |
+|     35-44 |               19 |
+|     45-64 |               14 |
+|       65+ | 4                |
+Men should strive for less than 2 drinks a day, while women should go for less than 1 drink. If you don't already drink dont start.
+One "Drink" can be defined as:
+| 12 oz Beer |
+| 5 oz Wine  |
+| 1.5 oz Spirit |
+Each of these servings contains approximately 15 grams of alcohol, or 105 calories.
+** Potential Benefits of Alcohol Use
+| Possibly               |
+|------------------------|
+| Reduce Heart Disease   |
+| Reduce Ischemic Stroke |
+| Reduce Diabetes        |
+Other factors such as diet and exericise have astronomically more benefits to reducing risk of disease as compared to alcohol consumption. Even small drinkes are at much higher risk for certain cancers.
+** Who Should Absolutely Avoid Alcohol?
+*** Pregnancy Women & Fetal Alcohol Syndrome
+No safe amount of alcohol during pregnancy. Consumed alcohol will make its way to the fetus causing higher BAC in the fetus than the mother. This can interrupt the delivery of oxygen and nutrients to the fetus. This will harm the development of tissues and organs, and potentially cause permanent brain damage.
+*Fetal Alcohol Syndrome* occurs when a fetus is exposed to alcohol during pregnancy. It can cause brain damage and growth problems. Adverse outcomes linked with Fetal Alcohol Syndrome inclue:
+| Physical Defects       | CNS Abnormalities     |
+|------------------------+-----------------------|
+| Slow Growth            | Off balance           |
+| Reduced head size      | Dumb/Bad memory       |
+| Extremity malformation | Delayed mental growth |
+| Organ malfunction      | Bad logic             |
+| Eye/Ear impaired       | ADD ADHD              |
+| Delay Fine/Gross motor | Temper                |
+* Chapter 9: What Are Vitamins?
+** Vitamins: A Little Goes a Long Way
+We only need very small amounts of micronutrients, measured in milligram and microgram amounts. While micronutrients are not used for bodily structure they are vital to powering the chemical reaction that make our body tick. Vitamins are carbon containing (organic) while minerals are not. The body contains pounds of both carbohydrates and fat, while only containing less than a teaspoon of vital nutrients such as B1.
+** Fat-Soluble versus Water-Soluble Vitamins
+|            | Water-Soluble            | Fat-Solbule         |
+|------------+--------------------------+---------------------|
+| /          | <                        |                     |
+| Absorption | Direct > Circulation     | Lymph > Ciculation  |
+| Transport  | Unbound                  | Transport Protein   |
+| Storage    | In water-filled areas    | In fat-storing cell |
+| Excertion  | Filtration, kidney>urine | Remains in fat      |
+| Toxicity   | Not common, supplements  | Supplements         |
+| Frequency  | Daily or EOD             | Week or Month       |
+Vitamin Naming Breakdown
+| Fat-Soluble                    | Water Soluble           |
+|--------------------------------+-------------------------|
+| Vit A (Beta-Carotene, Retinol) | Vit B1 Thiamin          |
+| Vit D                          | Vit B2 Riboflavin       |
+| Vit E                          | Vit B3 Niacin           |
+| Vit K                          | Vit B5 Pantothenic Acid |
+|                                | Vit B6 Pyridoxine       |
+|                                | Vit B7 Biotin           |
+|                                | Vit B9 Folate           |
+|                                | Vit B12 Cobalamin       |
+|                                | Vit C Ascorbic Acid     |
+*** Body Regulation
+For most nutrients their bioavailibilty (absorption % of nutrient) is increase when they are consumed in foods rather than their simple form. This is due to the presense of other nutrients in other foods. The vitamin D added milk helps absorption of calcium. Bioabailibility can range from 40-90% due to factors such as:
+| Efficiency of digestion  |
+| Previous nutrient intake |
+| Foods consumed together  |
+| Method of preperation    |
+| Source of nutrient       |
+*** Preserving Your Vitamin Intake
+Vitamins and Minerals easily be destroyed in the cooking process, or even during transportation and storage.
+| Reduce amount of water used in cooking |
+| Reduce cooking time                    |
+| Reduce surface area                    |
+Boiling is the worst, while microwaving and steaming are the best options for vegetables. Frozen vegetables are often the same or better than fresh vegetables. Canned foods can have excess losses due to the canning procedure.
+| Keep foods cool to prevent enzymes destroying vitamins |
+| Keep foods cool, moist, and air-tight                  |
+| Keep foods in bigger pieces                            |
+| Minimize reheating                                     |
+| Dont add baking soda                                   |
+| Store canned foods correctly                           |
+| Eat the canned food liquid                             |
+** Fat-Soluble Vitamins
+These are stored in fat, so no need to over-consume them because they stick around.
+| Vitamin A | Vision, Cell differentiation, Hormone |
+| Vitamin D | Bones, Calcium, Immunity, Hormone     |
+| Vitamin E | Antioxidant, Skin, Immunity           |
+| Vitamin K | Clotting, Bone health                 |
+*** Vitamin A
+*Retinol, Retinal, and Retinoic Acid* are the forms of Vitamin A in the body. This group is called *retinoids*. Also found in plants in the form of *carotenoids*, the most important of which being *beta-carotene*.
+Vit A is sent to the liver, then into the blood with a retinol-building protein. *Retinol Activity Equivalents (RAE)* are units to tell use how much of a certain nutrient is needed to have the equilivent power of one mcg of retinol.
+| Vision           |
+| Gene Regulation  |
+| Immune Function  |
+| Bone Growth      |
+| Reproduction     |
+| Cell Membrane    |
+| Opithelial Cells |
+| Cotrisol Synth   |
+| Nerve Insulation |
+| Production Blood |
+| Thyroid Hormone |
+Vitamin A deficiency is the leading cause for non-accidental blindness worldwide. Vit A also helps keep the cornea moist and healthy, if defiecient keratin-forming cells with proliferate and the eye will dry out, becoming susceptible to xerophthalmia. Bitot spot can also form.
+Macular Degenerative Disease can be slowed or prevented through proper Vit A intake. The center field of vision becomes dark and clouded.
+Espicially in children Vit A is essential for immune function.
+Gene production for metabolism is regulated by Vit A.
+Vit A signals bone cells to break down the inner part of a bone, deficiency may lead to stunted childhood growth.
+Epithelial tissue can be compromised. Vit A also helps cells grow mature are differentiation, if deficient this can lead to cells dying early and being replaced by cells of different function.
+Toxicity will happen in the same tissue where deficiency can occur. Symptoms include: headaches, abdominal pain, skin rashes, liver damage, diarrhea, nausea, hair loss, joint pain, and bond and muscle soreness. Itching skin, blurred bision, growth failure in children, and increased bone fractures are also common.
+Pregnancy women should take caution to avoid Via A over-consumption.
+DRI is 900/700mcg for men and women. Breastfeeding takes these numbers up to 1200-1300. UIL is at 3000mcg/day.
+Dairy, liver, eggs, margarine, spinach, dark greens, and broccoli. Orange and red foods also have high Vit A.
+*** Vitamin D
+Also known as cholecalciferol, is additionally classified as a hormone, and steroid. It can be made from cholesterol. It controls bone development and maintenance, through metabolism of calcium and phosphorus. It stimulates cells in the small intestine to increase calcium absorption. It works to keep serum calcium levels in the right zone.
+*Rickets* is what bowed legs is called, caused by a Vit D deficiency. It is the softening and deformity of long bones. The bones are unable to support the body weight. All bones can be effected. In adults this condition is called osteomalacia, caused by decalcification.
+Cholesterol in the liver combines with UV rays to create a Vit D percursor. Sunscreen blocks the bodies ability to make Vit D. 10-15 minutes for lighter skinned people, 1-3 hours for darker. 20% skin surface exposure.
+Symptoms of vitamin D toxicity include: nausea, vomiting, diarrhea, and calcification of soft tissues.
+RDA for Vit D is 15mcg up to 70y/o, then 20mcg above 70. UIL is 100mcg. Aiming for serum concentrations of 15ng/dl or up to 30ng/dl.
+Food sources include milk, margarine, liver, serdines, salmon, and shrimp.
+*** Vitamin E
+A group of compounds called *tocopherols*. They function as antioxidants, fighting agianst risk of cancer, heart disease, and accelerated aging. It donated an unpaired electron to the free radical.
+Because it is fat-soluble it offers better protection to lipid membranes or other fat-soluble compounds as opposed to watery parts of cells or tissues. Vit E is located in the fat portion of membranes. Protects lungs, and red blood cells. Vit E supplements protect from cancer, and cardiovascular disease. Diet, less alcohol, and exercise are much better than taking Vit E.
+Vit E deficiency rarely occurs in humans, but can occur in premie infants, leading to anemia. In adults it can occur from fat misabsorption, and will lead to loss of muscle coordination, reflexes, muscle weakness, reproductive failure, and impaired vision.
+Signs of toxicity can include headache, nausea, blurred vision, reduced sexual function in men, accelerated aging, mouth inflammation, chapped lips, fatigue, GI disturbances, weakness, and increased bleeding. Vit E does not slow aging.
+DRI 15mg/day, UIL 1000mg/day.
+Food sources include: vegetable oils, margarine, salad dressings, whear germ, nuts, seeds, green leafy vegetables.
+*** Vitamin K
+The production of fibrin, from Vit K helps form blood clots. Once prothrombin is converted to thrombin, thrombin can then form fibrinogen to fibrin.
+Vit K deficiency is rare, but if one takes antibiotics for long enough is may decrease Vit K stores.
