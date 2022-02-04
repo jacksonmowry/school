@@ -82,5 +82,16 @@ The other function cdr will return the rest of a list without the first element.
 = ()
 #+end_src
 That last command may seem odd, as there is only one element in the list, so why does scheme return a list of nothing? We will return to this later.
-In order to take small subsections of a list or to grab an individual element burried deep in a list we can call the car and cdr functions multiple times within itself. For example we can use (car (cdr (cdr (cdr (cdr '(a b c d e f g)))))) to grab the 5th element in the list (e). Remember that we can look at scheme functions from the inside out to better understand how they process through the arguments given. So the first cdr removes 'a', then the next removes 'b', then 'c', then 'd', and finally we get to car which pulls the first element from a list being 'e'.
-Luckily these actions are performed so often that we have a shortcut for writing them out. To perform the above operation we can use caddddr.
+In order to take small subsections of a list or to grab an individual element burried deep in a list we can call the car and cdr functions multiple times within itself. For example we can use (car (cdr (cdr (cdr '(a b c d e f g))))) to grab the 4th element in the list (d). Remember that we can look at scheme functions from the inside out to better understand how they process through the arguments given. So the first cdr removes 'a', then the next removes 'b', then 'c', and finally we get to car which pulls the first element from remaining list being 'd'.
+Luckily these actions are performed so often that we have a shortcut for writing them out. To perform the above operation we can use cadddr.
+*** Alternate List Constructors
+The functions lists and append can be used for additional dtring manipulation.
+*list* takes elements and forms one list
+*append* takes already formed lists and forms a new list
+#+begin_src <scheme>
+(list 1 3 5 (+ 3 4) '(/ 18 2))
+= (1 3 5 7 (/ 18 2))
+
+(append '(1 2) '(3 4) '(5 6))
+= ((1 2) (3 4) (5 6))
+#+end_src>

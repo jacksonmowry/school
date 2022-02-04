@@ -11,13 +11,16 @@ class StudentData {
         String lastName;
         String studentID; // Some student ID numbers may start with 0's and we need those preserved
         String highSchool;
-        char lastGrade; // Does not use plus or minus
+        char lastGrade = 'c'; // Does not use plus or minus
         int age;
         double GPA;
 
+        // Setting up our scanner object to use the new line character as its delimiter
+        Scanner inputScanner = new Scanner(System.in);
+        inputScanner.useDelimiter("\\n");
+
         // Prompt the user for their data
         System.out.print("Welcome to the student database!\n What is your first name?: ");
-        Scanner inputScanner = new Scanner(System.in);
         firstName = inputScanner.next();
         System.out.print(" What is your last name?: ");
         lastName = inputScanner.next();
@@ -25,13 +28,13 @@ class StudentData {
         studentID = inputScanner.next();
         System.out.print(" What high school did you attend?: ");
         highSchool = inputScanner.next();
-        //System.out.print("What was your last letter grade awarded in a CS class?: ");
-        //lastGrade = inputScanner.nextChar();
-        //System.out.print("What is your age?: ");
-        //age = inputScanner.nextInt();
-        //System.out.print("Lastly, what is your current GPA?: ");
-        //GPA = inputScanner.nextDouble();
+        System.out.print(" What was your last letter grade awarded in a CS class?: ");
+        lastGrade = inputScanner.next().toCharArray()[0];
+        System.out.print(" What is your age?: ");
+        age = inputScanner.nextInt();
+        System.out.print(" Lastly, what is your current GPA?: ");
+        GPA = inputScanner.nextDouble();
 
-        System.out.println(firstName + lastName + studentID + highSchool);
+        System.out.println(firstName + "\n" + lastName + "\n" + studentID + "\n" + highSchool + "\n" + lastGrade + "\n" + age + "\n" + GPA);
     }
 }
