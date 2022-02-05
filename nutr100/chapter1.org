@@ -960,4 +960,58 @@ DRI 15mg/day, UIL 1000mg/day.
 Food sources include: vegetable oils, margarine, salad dressings, whear germ, nuts, seeds, green leafy vegetables.
 *** Vitamin K
 The production of fibrin, from Vit K helps form blood clots. Once prothrombin is converted to thrombin, thrombin can then form fibrinogen to fibrin.
-Vit K deficiency is rare, but if one takes antibiotics for long enough is may decrease Vit K stores.
+Vit K deficiency is rare, but if one takes antibiotics for long enough is may decrease Vit K stores. Large amount of Vit K can cause red blood cells to burst. It may also cause jaundice in infants.
+DRI is 120/90mcg for men/women. Bacteria in the colon can make vitamin K, as such infants need to be given a dose of Vit K because they initially lack the necessary bacteria to synthesize it. Green leafy vegetables, cabbage-like vegetables, soybeans, and vegetable oils.
+** Water-Solbule Vitamins
+*** Functions of B Complex Vitamins
+There are 8 b-complex vitamins, thiamin, riboflavin, niacin, folate, B6, B12, pantothenic acid, and biotin. These vitamins act as coenzymes in the body, a molecule that helps and enzyme do metabolic work.
+Thiamin, robiflavin, niacin, pantothenic acid, and biotin help woth the release of energy from foods. B6 is a coenzyme for amino acid metabolism. Folate and B12 help cells multiply and deliver nutrients for the body's energy-yielding reactions. These vitamins work closely together so it is difficult to determine what vitamin is exactly responsible for each reaction. For this reason it is often recommended to take a b-complex supplement to cover your bases.
+Although they are often added to energy drinks, their intake above the RDA is not shown to increase energy.
+When deficicent in the b-complex the body will experience a lack of energy. General toxicity can occur.
+*** Grain Enrichment
+Thr germ of grains is rich in Vit B and E, and during processing this germ is removed in order to preseve the shelf life of gain based products. Required to add Vit B, iron, and folate.
+*** Thiamin B1
+Plays a role in metabolism, by acting as a coenzyme for the metabolism of BCAAs. Also aids in DNA/RNA production for protein synthesis. Production of neurotransmitters by woeking at the nerve cell membrane.
+When deficient a person will experience *beriberi*, muscle wasting due to the bodies inability to metabolize energy. Can result in paralysis, and heart failure, may occur in alcoholics.
+1.2/1.1mg for men/women, deficiencies can occur in people with eating disorders, and homeless populations. Deficiency is rare.
+Food sources include: pork, whole grains, breakfast cereals, enriched grains, greeen beans, milk, orange juice, organ meats, peanuts, died beans, and seeds.
+*** Riboflavin B2
+Functions as a coenzyme for macronutrient metabolism. Supports vision and skin.
+Deficiency causes ariboflavinosis, resulting in: cheilosis, megenta-colored tongue, sore throat, rash, and sensitivity to light.
+1.3/1.1mg for men/women, from foods like: liver, mollusks, salmon, milk, cereal.
+*** Niacin B3
+Its two parts *nicotinic acid* and *nicotinamide* function to release energy from macronutrients, and synthesize fatty acids.
+Deficiency leads to pellagra: diarrhea, dermatitis, dementia, and death.
+60mg of tryptophan consumed can lead to 1mg of niacin. DRI is 16/14 for men/women. Toxicity symptons include: liver injury, stomach ulcers, vision loss, and skin flushing.
+Food sources include: milk, eggs, meat, foulty, fish, whole-grains, cereals, and nuts.
+*** Pantothenic Acid
+Fucntions to make conenzyme A which metabolizes macronutrients, can also help with fatty acid synthesis.
+Deficiency is rare, and toxicity is not a concern.
+5mg a day for adults
+*** Biotin
+Functions as a coenzyme, involved in fatty acid synthesis, gluconeogenesis, and energy metabolism.
+Extended consumption of egg whites will make biotin unavailable, causing dermatitis, change in tongue and lips, decrease in appetite, nausea, and vomiting.
+Food includes: egg yolks, meat, and cheese.
+*** Vitamin B6
+Also called pyridoxine it work in many biochemical reactions, mainly converting amino acids from one type to another. Can help neurotransmitter production, tryptophan > serotonin, aloing with hemoglobin synthesis. Also helps immune function by synthesizing white blood cells, assisting in the release of glucose from glycogen, and development of the fetal brain.
+Deficiency results in: depression, vomiting, dermatitis, convulsions, and decreased immune response.
+DRI is 1.3mg a day for adults, and levels above 100mg a day can be toxic. Leading to symptoms such as: loss of sensation in the hands, depression, fatifue, headache, nerve damage, and convulstion. Some people with carpal tunnel syndrome have mixed results when supplementing with B6 to treat their symptoms.
+Food sources include: liver, meants, poultry, baked potatoes, bananas, broccoli, spinach, watermelons, salmon, and navy beans.
+*** Folate
+Functions as an enzyme in volved in DNA synthesis, cell differentiation, and amino acid metabolism. It also serves a role in embryonic development in a woman.
+*Macrocytic Anemia* is a condition where large immature red blood cells that carry less oxygen make up the bloodsteam.
+*Neural Tube Defects* is another condition in which a fetus has malformations of the brain and spinal chord.
+Since less than 50% of consumed folate is absorbed the RDA is 400mcg, high intake will prvent NTD. Folate intake itself is not toxic.
+Food sources include: synthetic fortified foods, leafy green vegetables, legumes, seeds, and beed liver.
+*** Vitamin B12
+Known as cyanocobalamin, due to cobalt in its structure. As a coenzyme it helps in DNA synthesis in red blood cells. It also helps maintain the myelin sheath over nerve fibers. Along with folate it helps to lower homocysteine levels, and lower risk of cardiovascular disease.
+The absorption of B12 is different than that of any other vitamin. It must be attached to protein, then released for absorption to occur, it is then picked up by the protein called intrinsic factor which binds up the vitamin for transport.
+DEficiency in Vit B12 will result in macrocytic anemia, GI problems, peripheral neuropathy, depression, irritability, and memory impairment. As we age there is higher risk for Vit B12 deficiency.
+RDA id 2.4mcg for adults, with vegans needing to supplement.
+Food sources include: animal products, beef, fish, poultry, and dairy.
+*** Vitamin C
+Also known as ascorbic acid, it function as an antioxidant, and protects cell constituents. It also helps produce collagen.
+Scurvy can result from Vit C deficiency, along with anemia.
+Not really any UIL, and not considered toxic.
+DRI is 90/75mg for men/women, and people who smoke need 125/110mg per day.
+Food sources are: organge, peppers, brussel sprouts, broccoli, citrud, strawberries, and sweet potatoes.
