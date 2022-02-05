@@ -32,54 +32,54 @@
        - = 169
     4. So then we move outward and we can see we are at the outermost operation being sqrt, sqrt take exactly one argument being our number 169, (sqrt 169)
        - = 13
-#+begin_src <scheme> <results>
-(sqrt (+ (* 5 5) (* 5 5)))
+#+begin_src scheme
+(sqrt (+ (* 5 5) (* 12 12)))
 #+End_src
 
 *** Side Note on Creating a List
 - Since Scheme uses lists for both function and data we need a way to tell it which is which. For this we prefix our list with a singlr quote '()
 - Notice that we only use a beginning quote, and there is no need for an ending quote mark.
-#+begin_src <scheme>
+#+begin_src scheme
 (* 4 5)
-= 20
+;;; = 20
 
 '(* 4 5)
-=(* 4 5)
+;;; =(* 4 5)
 #+end_src
 ** Manipulating Lists
 In order to pull an element from a list we need to have a function to specify where we want to grab an element from.
 *** cons (construct)
 The function cons allows us to contruct a new list, taking in an element and a list and creating a new list. The element will be added to the front of the list. Any type can be added to a list, and lists can contain any mix of these types.
-#+begin_src <scheme>
+#+begin_src scheme
 (cons 42 '(12 24))
-= (42 12 24)
+;;; = (42 12 24)
 
 (cons '(a e) '(z (x (y))))
-= ((a e) z (x (y)))
+;;; = ((a e) z (x (y)))
 #+end_src
 *** car and cdr
 car and cdr are used to pull the elements from a list, car pulling the first element of a list, and cdr pulling the rest of a list. You cannot pull elements from an empty list.
-#+begin_src <scheme>
+#+begin_src scheme
 (car '(a b c d e f g))
-= a
+;;; = a
 
 (car '(a b (c (d (e))))
-= a
+;;; = a
 
 (car '((a b) c d))
-= (a b)
+;;; = (a b)
 #+end_src
 In the last example the elements of the list are [0] = (a b), [1] = c, [2] = d. So calling the function car on a list of ((a b) c d)) returns the first element being (a b).
 The other function cdr will return the rest of a list without the first element. So a list of (a b d e f g) would return (b d e f g).
-#+begin_src <scheme>
+#+begin_src scheme
 (cdr '(a b c d e f g))
-= (b c d e f g)
+;;; = (b c d e f g)
 
 (cdr '((1 2) 3 4))
-= (3 4)
+;;; = (3 4)
 
 (cdr '(jackson))
-= ()
+;;; = ()
 #+end_src
 That last command may seem odd, as there is only one element in the list, so why does scheme return a list of nothing? We will return to this later.
 In order to take small subsections of a list or to grab an individual element burried deep in a list we can call the car and cdr functions multiple times within itself. For example we can use (car (cdr (cdr (cdr '(a b c d e f g))))) to grab the 4th element in the list (d). Remember that we can look at scheme functions from the inside out to better understand how they process through the arguments given. So the first cdr removes 'a', then the next removes 'b', then 'c', and finally we get to car which pulls the first element from remaining list being 'd'.
@@ -88,10 +88,23 @@ Luckily these actions are performed so often that we have a shortcut for writing
 The functions lists and append can be used for additional dtring manipulation.
 *list* takes elements and forms one list
 *append* takes already formed lists and forms a new list
-#+begin_src <scheme>
+#+begin_src scheme
 (list 1 3 5 (+ 3 4) '(/ 18 2))
-= (1 3 5 7 (/ 18 2))
+;;; = (1 3 5 7 (/ 18 2))
 
 (append '(1 2) '(3 4) '(5 6))
-= ((1 2) (3 4) (5 6))
+;;; = ((1 2) (3 4) (5 6))
+#+end_src>
+* Boolean Functions
+** and
+The operator and will check and see if its arguments are all true, if so it returns true, if even one of its arguments is false it will return false. Evaluation of its arguments will stop as soon as it hit a value of false.
+#+begin_src scheme
+(and (< 4 5) (> 5 4))
+;;; = #t
+
+(and (= (expt 4 3) 64) (equal? (cons 42 '(12 24) '(42 12 23)))
+;;; = #f
+
+(and (= (expt 4 3) 64) (equal? (cons 42 '(12 24) '(42 12 24)))
+;;; = #t
 #+end_src>
