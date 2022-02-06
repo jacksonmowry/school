@@ -1015,3 +1015,62 @@ Scurvy can result from Vit C deficiency, along with anemia.
 Not really any UIL, and not considered toxic.
 DRI is 90/75mg for men/women, and people who smoke need 125/110mg per day.
 Food sources are: organge, peppers, brussel sprouts, broccoli, citrud, strawberries, and sweet potatoes.
+
+* Chapter 10: The Importance of Water and Hydration
+** Water: The Most Essential Nutrient
+The body is about 50-70% water - about 10 gallons. Most of this is intracellulr fluid, with the remaining 1/3 being extracellular, known as tissue fluid. This tissue fluid flows between cells of the liver or between muscle fibers. It can be found within the blood and lymphatic vessels.
+Fluid is not equally distributed, instead lean tissue contains much more than fat. Muscle is 70-75% water, fat is only 15%.
+| Compartment                    | Percentage of Total Body Water |
+| Intracellular                  |                            60% |
+| Interstitial fluid and lymph   |                             20 |
+| Connective Tissues and joints  |                              8 |
+| Plasmsa                        |                              7 |
+| Eyes, mucous secretions, other |                              1 |
+| Intestinal secretions          | 1                              |
+** Electrolytes and Fluid Balance
+Minerals contained in the body such as sodium, potassium, chloride, and phosphorus are electrolytes, with the first two being cations, and the last two being anions. Through osmosis these electrolytes move water towards areas of high solute concentration. The three condition of a cell regarding water are concentrated, isotonic, and dilute (shrinking, perfect, exploding).
+** Function of Water
+*** Regulating Body Temperature
+The human body uses its water to regulate its temperature, becuase water has a high thermal mass it keeps thing consistent. 3-9 cups of sweating per day.
+*** Transporting Nutrients in the Body and Eliminating Waste Products
+Water carries both nutrients and waste (sodium, urea, and others). Urine color indicates concentration of these excretions, darker urine indicating that the kidneys had to reuse water.
+*** Other Functions
+| Chemical Reaction Medium      |
+| Universal Solvent             |
+| Lubricant/Shock Absorber      |
+| Saliva, tears, amniotic fluid |
+| Acid/Base Balance             |
+| Energy Formulation            |
+*** Water Balance
+Depending on the environment of a person they may experience more or less water less day to day. Water has no storage, so when the body needs it, it must be in the extracellular fluid.
+*** Water Input Versus Output
+It is best when the water intake matches water output. Drinks with caffeine may not hydrate as well as noncaffeinated drinks. Some foods contain more water than others. *Metabolic* water is produced when macronutrients are broken down.
+Water is lost through two ways *sensible water loss* (ways we notice) and *insensible water loss* (ways we cannot notice).
+Conditions That Increase Water Loss
+| Illness              |
+| Injury               |
+| Exercise             |
+| Aging                |
+| Dry Air              |
+| Temperature Extremes |
+| Altitude             |
+| Pregnancy            |
+| Dietary Factors      |
+| Diuretics           |
+** Disturbances in Water Balance
+*** Dehydration
+The thirst mechanism controlled by the hypothalamus and these things trigger it:
+| Increase in salt (dissolved substances) |
+| Reduction in BP or volume               |
+| Dryness in mouth/throat tissues         |
+Kidneys are signaled by *antidiuretic hormone* reducing urine output, conserving fluids for the body. Water is drawn out of the mouth, but by this point we are already well dehydrated. Body water loss can lead to headaches, nausea, heat intolerance, or even death.
+Some people have an unreliable thirst mechanism:
+| Infants  | Cannot communicate thirst          |
+| Elderly  | Not adequate intake, loss of sense |
+| Athletes | Prolonged exercise                 |
+| Sick     | Fever, vomiting, diarrhea          |
+To prevent dehydration: consume the recommended amount, weigh before and after workouts, monitor urine, prepare to drink fluids, eat foods high in water conctent.
+*** Overhydration/Water Intoxication
+A rare condition where the balance of electrolytes is inappropriate for the amount of body water. Most likely caused by IV fluids being introduced too quickly. Use sports drinks to ensure balanced electrolyte consumption. This relative lack of sodium outside of cells leads to water moving in to cells, which can cause hyponatremia, or edema.
+** Fluid Needs - So How Much Should You Drink?
+11/15 cups men/women. 9/13 cups fluid alone.
