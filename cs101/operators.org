@@ -1,0 +1,42 @@
+#+TITLE: Operators
+
+- Note there is no exponent operator in vanilla java, instead use Math.pow(a, e), where a is the *base* and e is the *exponent*.
+* Operators
+| Basic Operations | Atithmetic         |
+|------------------+--------------------|
+| /                | Division           |
+| *                | Multiplication     |
+| %                | Modulo (Remainder) |
+| -                | Subtraction        |
+| +                | Addition           |
+|                  |                    |
+
+
+#+begin_src java :output results
+System.out.println(3 + 6);
+System.out.println(3 + 6 - 2 * 4 + 5);
+System.out.println(3 / 6);
+#+end_src
+
+#+RESULTS:
+: 9
+: 6
+: 0
+
+** Division
+In java integer division results in only whole numbers being reported. Think of it kind of like rounding down to the nearest whole number. If one of the numbers is a float java will keep the answer as a float.
+#+begin_src java :output results
+System.out.println(9 / 6);
+System.out.println();
+System.out.println(9.0 / 6.0);
+System.out.println();
+System.out.println(9.0 / 6);
+
+#+end_src
+
+#+RESULTS:
+: 1
+:
+: 1.5
+:
+: 1.5

@@ -6,7 +6,7 @@
 ** Grading
 *** Exams 80%
 *** labs 20%
-** Inroduction and Chemical Biology
+** Introduction and Chemical Biology
 | Element | Symbol |
 |---------+--------|
 | H       |    63% |
@@ -14,7 +14,7 @@
 | C       |      9 |
 | N       |      1 |
 - atoms are made up of protons, neutrons, and electrons
-- we only care about outer electons
+- we only care about outer electrons
 *** Molecule vs Compound
 - two or more atoms vs two or more different elements
 *** Types of bonding
@@ -50,7 +50,7 @@ Hydrogen bonds: Weak bonds between hydrogen and other atoms
 - when two atoms with differing electronegativity bond the electrons will concentrate more towards the atom with greater electronegativity (polar covalent bonding)
   - if two atoms with the same electronegativity bond they will form a non polar bond
   - non polar bonds are hydrophobic
-  - polor bonds are hydrophilic
+  - polar bonds are hydrophilic
   - polar dissolves polar
 *** Ionic Molecules
 - Ionization
@@ -385,3 +385,115 @@ A signal from outside the cell will carry instructions telling it what to produc
 The sequence of the mRNA determines the sequences of the formed polypeptide (amino acids held together by peptide bonds). tRNA and mRNA first bond, the first amino acid detaches fom its tRNA and bonds to the second amino acid, this dipeptide is attached to the second tRNA. This will continue until a stop codon is reached.
 While this peptide chain is being formed it starts to experince both secondary and tertiary interactions (twisitng and folding respectivly). This interaction may not occur properly producing toxic complxes, chaperone proteins are there to help prevent this. They help protiens fold corectly as they exit the riosome, they also help different polypeptide chains come together in the proper way to form quaternary structures.
 ** Mutations
+Genes are transscribed into proteins or RNA
+By default these genes are turned off, and it takes a lot to turn them on
+A permenant change in a nucleotide, adding, or deleting nucleotides from the sequence
+This will lead to a change in the structure of the protein
+Which may impair cell function or cause cell death
+These changes can occur from chemicals or ionizing radiation, and they are random chages. Most of the time we dont even notice them
+** Protein Degradation
+Proteins degrade at different rates
+An unfolded protein is degraded much faster than a folded one
+Ubiquitin attached to the protein, moves it to a complex called proteasome, which unfolds the protein and breaks it down into peptides
+*** Pathway of proteins destines to be sereated by cells or Transfered to lysosomes
+Different sequences will signal to subunits to direct proteins to where they need to go: Secreation, or modification
+Membrane protein, Processing or modification, secreted from the cell, Targeted to not leave the cell but not free floating in the cytoplasm
+** Terminology
+*Ligand* a molecule (can be another protein) or ion that is bound to a protein by one of the following forces:
+- electrical attraction between oppositely charged ioni or polarized groupds on the ligand and the protein
+- Weaker attractions due to hydrophobic forces between nonpolar regions on the two molecles
+This bonding does not involve covalent bonds and are reversible.
+*Binding Site* is the region of a protein to which a ligand binds. (think of an enzyme)
+A protein can have several binding sites, each specific for a particular ligand.
+The binding of a ligand will change the conformation of the protein, the function may change, or it may be activated or deactivated
+** Protein Binding: Chemical Specificity
+Two proteins must be close enough and in the right conformation to bind. This is known as *chemical specifificy*. They also need to have the proper (opposite) charges in each zone. The fold of the protein will determine what ligand will attach to it, and in what specific regions.
+** Protein Binding: Affinity
+The strength of the ligand-protein binding
+Determines how likely it is that a bound ligand will leave the protein surface and return to its unbound state.
+Tight bonds are high-affinity binding sites
+Different proteins can bind to the same ligand, with differeing affinities for that ligand
+With high affinity very little of that ligand is needed to bind to the protein
+Opposite charges, and exact fit create a high-affinity binding site
+** Saturation
+Equilibrium is reached between unbound ligands in solution and their corresponding protein-binding sites.
+*Saturation* refers to the fraction of total binding sites that are occupied at any given time.
+Two factors: concentration of unbound ligand in the solution, and the affiniy of the binding site for the ligand
+The higher affinity will cause the saturation to increase much more rapidly
+** Allosteric Modulation
+Occurs when a protein has two binding sites and the noncabalent binding of a ligand to one of the sites alters the shape of the second binding site. Think of it like an *on-off switch*
+One binding site on an allosteric protein, known as the *function* site carries out the prtein's physiological funcation.
+The other site is the *regulatory site*, the ligand that binds here is called the *modulator molecule*, becuase its binding allosterically modulaed the shape, and therefore the activity of the funcational site
+Turns the protein on or off, by modifing it a certain way
+** Covalent Modulatin
+The covalent bonding of charged chemical groups (phosphates) to some of the protein's side chains. This can changes the activity of the protein. Addition of phosphate is called *phosphorylation*.
+The enzymes that mediates protein phosphorylation is called *protein kinase*, the enzyme that mediates the removal of a phosphate is called *phosphoprotein phosphatease*. Both together recognize specific sequences in the protein to find their targets. These move phosphates from the cytoplasm or other parts of the cell to molecules (atp, adp).
+** Enzymes and Cellular Energy
+Cellular metabolism consists of:
+| Catabolism | Breakdown of organic molecules |
+| Anabolism  | Synthesis of organic molecules |
+Rxns break and form chemical bonds. Hydroxyls perform dehydration, making things bigger. Catabolism involves hydrolysis, breaking bigger things into smaller things. We need to breakdown foods in a "human form" so that they can be used as human building blocks.
+** Determinant of Reaction Rates
+| Reactant Concentrations | > better        |
+| Activation Energy       | < better        |
+| Temperature             | > better        |
+| Catalyst                | presence better |
+** Law of Mass Action
+The direction of a chemical reaction is determined (in part) by the concentrations of reactants and products. Reactions like to reach equilibrium, when one side (reactants or products) is higher in concentration it moves to make the other side equal.
+** Enzymes
+Enzymes are mostly protein molecules, so an enzymes can be defined as a biocatalyst.
+They lower *activation energy*, making reactions faster.
+They must contact reactants called *substrates*.
+The substrate and enzymes beocome bound to each other, forms *Enzyme-substrate complex*, which breaks down to release the product and enzyme.
+Enzymes must be left unchaged after the reaction. They help a reaction keep moving in one direction. The substrate is like reactants, but very specific to that enzyme.
+*Lock and key*: The substarates fit directly into the rigid enzyme.
+*Induced fit*: Slight change in the enzyme to allow then chemical reaction to take place
+*** Characterisitcs of Enzymes
+| Enzyme not changed                     |
+| Are specific for their substrates      |
+| Increass reaction rate                 |
+| Can cause reversible reactions         |
+| Lowers activation energy of a reaction |
+*** A specific enzyme catalyzes each cellular reaction
+Many enzymes require non-protein helpers called *cofactors* which:
+| Bind to the active site |
+| Function in catalysis   |
+Some are inorganic: ions of zinc, iron, or copper.
+Some are organic: Vitamins (*coenzyme*). The B vitamin complex helps speed up many metabolic processes.
+*** Regulatin of Enzyme-Mediated Reaction
+Enzyme-mediated reactions are regulated by three major factors:
+| Substrate Concentration |
+| Enzyme Concentration    |
+| Enzyme Activity         |
+The more substrate present, the faster a enzyme-catalyzed reaction will occur. But reactions cannot exceed the *rate of diffusion*, the rate at which proucts leave, and reactants move in.
+Increased enzyme affinity will increase reaction rate.
+*** Multiple Sites of binding
+An enzyme can have multiple covalent and allosteric activation sites. Decreasing and Increasing enzyme activity, more like a dimmer switch.
+For example if you have a lot of ATP you can decrease the acitivty of the enzyme, by actuallying using some ATP. On the other hand ADP can bind to it to maybe increase the speed of reaction making more ATP.
+** Metabolic Pathways
+Multienzyme pathways are the basis of cellular metabolism.
+Example: the transfer of energy released from the breakdown of fuel molecules to ATP.
+The products made in one step are the substrate for the next reaction. These are known as *intermediates*.
+Since one enzymes cannot perform all of the necessary reaction we need multiple enzymes.
+These multienzyme chains can create a feedback loop to stop over-production of a product. This will waste energy if we make too much of one thing. This feedback comes in the form of an *end product inhibitor*, so when enough of the end product is produced it will signal an enzyme further back in the chain to stop (or slow) production of its products. Usually the firt or second enzyme. When all the end-product is used up that enzyme will turn back on an start production. We inibit further back in the pathway so that these first few products can potentially be used elsewhere in the cell. *Negative Feedback Inhibition*.
+*** Energy Releasing Pathways
+Usually carbohydrates, potentially fats, then proteins. The matabolic pathways that these nutrients go though completly exhaust the entire energy store from a nutrient. They do this slowly as to not induce *combustion*, performing this slowly helps reduce energy loss in the form of heat.
+Glycolysis splits glucose, an gives it to the mitochondria.
+The mitochondira peforms oxidative phosphorylation moving a phosphate onto ADP to make ATP, using the oxygen.
+We can store energy in electrons, so food that has a lot of hydrogens can provide us with a ton of energy. This energy is used to do work.
+We pull H of glucose to get energy, and the C gets reduced adding O. Reduced oxygen is also known as water.
+** Oxidation-Reduction
+Movement of electrons from one molecules to another, a redox reaction
+| Loss of electrons is called oxidation     |
+| Addition of electrons is called reduction |
+| Oxidized = loss of 1 or more electrons    |
+| Reduced = gain of 1 or more electrons     |
+** Phosphorylation
+ATP is formed in glycolysis by *substrate-level phosphorylation* during which:
+| An enzyme transfers a phosphate group from a substrate molecules to ADP |
+| ATP is formed                                                           |
+The compound that forms between the initial reactant, glucose, and the final product, pyruvate are known as intermediates.
+The substrate and ADP go into the enzyme, and out comes ATP and the product (minus one phosphate group). This substrate can have 1 or 2 phosphates.
+** Glycolytic Pathway
+Start with glucose and begin the oxidatin of glucose.
+Take hydrogens off of glucose, adding phosphate. Then the cell recoginzizes it as active. ATP is lost as the phosphate is added. Glucose-6-Phosphate is what the cell can use.

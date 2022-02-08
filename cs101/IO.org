@@ -1,0 +1,26 @@
+#+TITLE: IO
+
+* Faking nextChar();
+In order to use a command like next(); to grab just one character we can use the .charAt() operator.
+#+begin_src java :results output
+String s = "Hello";
+System.out.println(s.charAt(0));
+#+end_src
+
+#+RESULTS:
+: H
+
+* Grabbing a String with spaces
+By default the scanner class uses the space character as its delimiter, but this causes a problem when we expect the user to input strings with spaces. We can configue our scaner to use the new line character as its delimiter.
+#+begin_src java :results output
+Scanner inputScanner = new Scanner(System.in);
+inputScanner.useDelimiter("\\n");
+#+end_src
+
+* Conventions of Programming
+For some code bases they will have a hard limit on the amount of character per line. For example 150 characters per line. So to solve this you should attempt to spread out print statements to their own lines to cut down on long lines.
+
+We should close our scanners after using them. This helps preserve memory/CPU and privacy.
+#+begin_src java
+inputScanner.close();
+#+end_src

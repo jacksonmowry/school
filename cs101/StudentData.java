@@ -1,6 +1,8 @@
+//
 // Jackson Mowry
 // Thur Feb 3 2022
 // This is a program to collect student data and organize it into a database format
+//
 import java.util.Scanner;
 class StudentData {
     public static void main(String[] args) {
@@ -15,7 +17,8 @@ class StudentData {
         int age;
         double GPA;
 
-        // Setting up our scanner object to use the new line character as its delimiter
+        // Setting up our scanner object to use the new line character
+        // as its delimiter instead of the space character
         Scanner inputScanner = new Scanner(System.in);
         inputScanner.useDelimiter("\\n");
 
@@ -29,12 +32,14 @@ class StudentData {
         System.out.print(" What high school did you attend?: ");
         highSchool = inputScanner.next();
         System.out.print(" What was your last letter grade awarded in a CS class?: ");
-        lastGrade = inputScanner.next().toCharArray()[0];
+        lastGrade = inputScanner.next().charAt(0);
         System.out.print(" What is your age?: ");
         age = inputScanner.nextInt();
         System.out.print(" Lastly, what is your current GPA?: ");
         GPA = inputScanner.nextDouble();
+        inputScanner.close();
 
+        // Lastly we will output all of the user input to confirm that is is correct
         System.out.println(firstName + "\n" + lastName + "\n" + studentID + "\n" + highSchool + "\n" + lastGrade + "\n" + age + "\n" + GPA);
     }
 }
